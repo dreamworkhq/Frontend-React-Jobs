@@ -1,0 +1,90 @@
+{
+  "repo": "Frontend-React-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Frontend and React Developer Jobs",
+  "tagline": "Frontend, React, and web UI engineering roles in the US and worldwide. JavaScript, TypeScript, and the modern framework stack, pulled straight from company career pages.",
+  "description": "Frontend and React developer jobs updated daily. JavaScript, TypeScript, and web UI roles with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-frontend-react-jobs",
+  "topics": [
+    "frontend",
+    "react",
+    "jobs",
+    "job-search",
+    "javascript",
+    "typescript",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "developer-jobs",
+    "web-development",
+    "nextjs",
+    "hiring",
+    "frontend-jobs",
+    "reactjs"
+  ],
+  "utmCampaign": "gh-frontend-react-jobs",
+  "keywords": "frontend and React developer roles (JavaScript, TypeScript, and modern web frameworks)",
+  "sources": [
+    {
+      "function": "Engineering",
+      "search": "react"
+    },
+    {
+      "function": "Engineering",
+      "search": "frontend"
+    },
+    {
+      "function": "Engineering",
+      "search": "front end"
+    },
+    {
+      "function": "Engineering",
+      "search": "typescript"
+    },
+    {
+      "function": "Engineering",
+      "search": "javascript"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": "front[- ]?end|react|\\bui engineer\\b|user interface|web develop|javascript|typescript|angular|vue|svelte|next\\.?js",
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 150,
+  "groupBy": null,
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/Python-Developer-Jobs",
+      "label": "Python Developer Jobs: backend, data, and platform roles"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    },
+    {
+      "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs",
+      "label": "New Grad Software Engineer Jobs: entry-level roles for graduates"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new frontend listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for React, TypeScript, Next.js, Angular, or Vue roles."
+    },
+    {
+      "q": "What counts as a frontend job here?",
+      "a": "Engineering roles whose title names frontend or web UI work: frontend, React, JavaScript, TypeScript, Angular, Vue, Svelte, or Next.js. Full-stack roles appear when the title leads with frontend or a frontend framework."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-frontend-react-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
