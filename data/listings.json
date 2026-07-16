@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T11:53:19.024Z",
+  "generatedAt": "2026-07-16T01:53:13.616Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Frontend-React-Jobs",
   "count": 600,
@@ -35,7 +35,7 @@
     {
       "id": "836c0d07-2898-486f-9600-116cde5d096d",
       "title": "Lead Frontend-Platform Developer",
-      "company": "Kwan",
+      "company": "KWAN",
       "companyDomain": "kwan.pt",
       "location": "Lisboa",
       "remoteType": "hybrid",
@@ -903,7 +903,7 @@
     {
       "id": "2708c853-c416-4596-87de-b5cce043708d",
       "title": "Fullstack Engineer- .net core with React and Typescript",
-      "company": "Resideo",
+      "company": "ADI",
       "companyDomain": "resideo.com",
       "location": "BANGALORE METROPOLITAN AREA, KARNATAKA, India",
       "remoteType": "hybrid",
@@ -1015,7 +1015,7 @@
     {
       "id": "42d2ed82-100c-4498-83d2-03536c5e308d",
       "title": "Junior Front-End Developer",
-      "company": "Parsons",
+      "company": "Parsons Corporation",
       "companyDomain": "parsons.com",
       "location": "US - CO, Westminster",
       "remoteType": "onsite",
@@ -1127,7 +1127,7 @@
     {
       "id": "649e6068-af3a-4949-a6fb-14d344bd5bcd",
       "title": "Junior Frontend Developer",
-      "company": "Everymatrix",
+      "company": "EveryMatrix",
       "companyDomain": "everymatrix.com",
       "location": "Amphoe Mueang Chiang Mai, Thailand, TH",
       "remoteType": "hybrid",
@@ -1141,7 +1141,7 @@
     {
       "id": "6741d98a-d337-48f9-a742-df457621d65a",
       "title": "Mid Frontend Engineer",
-      "company": "Everymatrix",
+      "company": "EveryMatrix",
       "companyDomain": "everymatrix.com",
       "location": "Zagreb, Croatia, HR",
       "remoteType": "hybrid",
@@ -1155,7 +1155,7 @@
     {
       "id": "5f688bfb-a999-4c52-878f-d953b15471a6",
       "title": "Senior Front End Developer",
-      "company": "Everymatrix",
+      "company": "EveryMatrix",
       "companyDomain": "everymatrix.com",
       "location": "Amphoe Mueang Chiang Mai, Thailand, TH",
       "remoteType": "hybrid",
@@ -1165,6 +1165,20 @@
       "postedAt": "2026-04-08T09:35:35.000Z",
       "firstIndexedAt": "2026-07-15T00:31:30.078Z",
       "url": "https://www.dreamworkhq.com/job/5f688bfb-a999-4c52-878f-d953b15471a6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "edd66da8-1966-4b69-8d16-852563784f07",
+      "title": "Front End Team Leader Deputy",
+      "company": "EveryMatrix",
+      "companyDomain": "everymatrix.com",
+      "location": "Amphoe Mueang Chiang Mai, Thailand, TH",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-25T03:59:19.000Z",
+      "firstIndexedAt": "2026-07-15T00:31:30.078Z",
+      "url": "https://www.dreamworkhq.com/job/edd66da8-1966-4b69-8d16-852563784f07?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "a142bfbd-4996-4371-bbaa-280b5a1a8c91",
@@ -1995,7 +2009,7 @@
     {
       "id": "12750cf7-f687-454c-911d-e16d509529f6",
       "title": "Fullstack Developer (React + Python)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Montevideo, LATAM, UY",
       "remoteType": "remote",
@@ -2009,7 +2023,7 @@
     {
       "id": "29e6f7cf-6e99-432f-9686-62bade402475",
       "title": "Frontend React Senior",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2023,7 +2037,7 @@
     {
       "id": "07320cec-72f5-4dcb-a431-029a71f6099a",
       "title": "Frontend React Senior",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Sevilla, España, Spain",
       "remoteType": "hybrid",
@@ -2037,7 +2051,7 @@
     {
       "id": "e0d18dab-b279-4ad8-ae6b-6afbdcf0debf",
       "title": "Frontend React Senior",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Palma, España, Spain",
       "remoteType": "hybrid",
@@ -2051,7 +2065,7 @@
     {
       "id": "edd39726-da6f-478d-835b-c094f3168981",
       "title": "Frontend Developer Vue Senior (100% teletrabajo)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2065,7 +2079,7 @@
     {
       "id": "396b2f6c-a4fc-458f-986c-4d02af72ee9a",
       "title": "Frontend Developer - LitElements - Web components (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2079,7 +2093,7 @@
     {
       "id": "86bdab82-ac19-4cc8-afb0-74b853ff07fa",
       "title": "Frontend Angular Senior (100% teletrabajo)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2093,7 +2107,7 @@
     {
       "id": "5d3003e0-76e9-48c1-b6b6-5fbd121476f1",
       "title": "Frontend Angular - Inglés alto (híbrido Madrid)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2107,7 +2121,7 @@
     {
       "id": "ed4a66d8-6da0-4278-a41b-7066e79f27a5",
       "title": "🚀 Frontend Angular  (100% remoto) 🚀",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2121,7 +2135,7 @@
     {
       "id": "ea269f48-9437-4655-8971-c9c2ff72aeef",
       "title": "Full Stack Developer | Remoto | React",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "València, España, Spain",
       "remoteType": "remote",
@@ -2135,7 +2149,7 @@
     {
       "id": "c2163e02-b6f0-48da-ba1d-f844d47ae77e",
       "title": "React Senior Developer",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Las Rozas de Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2149,7 +2163,7 @@
     {
       "id": "7247878f-2950-43d0-9714-6acffdd6e8de",
       "title": "Fullstack developer (Java + React) - Full Remote",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2163,7 +2177,7 @@
     {
       "id": "abffdbfb-cd4b-48e7-a17e-2cfc26f2e23c",
       "title": "Frontend React Senior (híbrido Palma de Mallorca)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Palma, España, Spain",
       "remoteType": "hybrid",
@@ -2177,7 +2191,7 @@
     {
       "id": "7e9ee6e2-cb0f-413c-b594-bc13cb83c186",
       "title": "Frontend React Senior (híbrido Madrid)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2191,7 +2205,7 @@
     {
       "id": "72b22b7d-ea95-4782-ac50-7e49f927fb6b",
       "title": "🚀 Frontend Developer Vue 3 (100% remoto) 🚀",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2205,7 +2219,7 @@
     {
       "id": "b57a9fd7-465f-44e8-89ca-01cff7e1d583",
       "title": "Programador Java / React 100% Remoto",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2219,7 +2233,7 @@
     {
       "id": "5b8ec840-fb39-4ab9-8a52-872a093aa8a9",
       "title": "Fullstack engineer Java + Angular/React  (100% teletrabajo)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2233,7 +2247,7 @@
     {
       "id": "c281e204-f85c-4b41-b873-2790b388de87",
       "title": "Frontend Developer - LitElement - Web components (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2247,7 +2261,7 @@
     {
       "id": "95fb3d88-2ba1-4c11-9642-16ce080d264a",
       "title": "DESARROLLADOR SENIOR FULL STACK PYTHON FASTAPI Y REACT",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2261,7 +2275,7 @@
     {
       "id": "51f27ab5-176f-44bf-8f46-ad101be9366a",
       "title": "Arquitecto Frontend Angular - inglés alto (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2275,7 +2289,7 @@
     {
       "id": "c6b105b6-e605-406e-b978-718c71cda949",
       "title": "Programador Full Stack Java, JSP, Javascript | 100% Remoto",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2289,7 +2303,7 @@
     {
       "id": "a54a3196-ded5-4bc6-8597-9fec1eaefc23",
       "title": "Programador Senior .NET / Angular, Javascript | 100% Remoto",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Sevilla, España, Spain",
       "remoteType": "remote",
@@ -2303,7 +2317,7 @@
     {
       "id": "36385e65-f01a-4df4-84b5-667c6208e86d",
       "title": "🚀 Fullstack React - NodeJS (100% remoto)🚀",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2317,7 +2331,7 @@
     {
       "id": "d0fcc416-ab34-41ab-b60e-f5e6dbf8dcaf",
       "title": "Frontend React Senior - Mentor (Lider equipo) (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2331,7 +2345,7 @@
     {
       "id": "0f98f3f3-b46f-45d0-b684-4a87a137641f",
       "title": "🚀 Fullstack Python - React -  IA (100% remoto)🚀",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2345,7 +2359,7 @@
     {
       "id": "89c81241-8a7e-46a8-b174-dd0856aaf199",
       "title": "🏡Frontend React - TV (100% teletrabajo)🏡",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2359,7 +2373,7 @@
     {
       "id": "8b154041-434a-4b1a-a069-7477874f4aa9",
       "title": "🚀 Fullstack React - NodeJS Senior (100% remoto)🚀",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2373,7 +2387,7 @@
     {
       "id": "68d59d28-bcd7-40ba-824a-405c19f08141",
       "title": "Frontend React - NextJS (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2387,7 +2401,7 @@
     {
       "id": "2ff297fd-e477-4e6f-a043-b5f9d1538780",
       "title": "Frontend Vue (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "hybrid",
@@ -2401,7 +2415,7 @@
     {
       "id": "436acd3e-f75e-4f97-964e-5b2564e997ad",
       "title": "Arquitecto Frontend Angular - IA - inglés alto (100% remoto)",
-      "company": "Knowmadmood",
+      "company": "knowmad mood",
       "companyDomain": "knowmad.com",
       "location": "Madrid, España, Spain",
       "remoteType": "remote",
@@ -2415,7 +2429,7 @@
     {
       "id": "a39cb5b6-3473-4278-b5c5-e2be3d1beb0a",
       "title": "Software Engineer,  Frontend",
-      "company": "Mistral Ai",
+      "company": "Mistral AI",
       "companyDomain": "mistral.ai",
       "location": "Paris",
       "remoteType": "hybrid",
@@ -3479,7 +3493,7 @@
     {
       "id": "6b0d16d1-7037-4475-ad42-b504854cbcd7",
       "title": "Senior Front-end developer (React.js, Typescript)",
-      "company": "Tango Me/Танго Мі",
+      "company": "TechState",
       "companyDomain": "tango.me",
       "location": "Kyiv, Ukraine",
       "remoteType": "onsite",
@@ -3689,7 +3703,7 @@
     {
       "id": "bfdc2906-61a4-48a9-8f50-d0e2a312e3e5",
       "title": "Sr React Developer - Equities - Vice President",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "LONDON, LONDON, United Kingdom",
       "remoteType": "onsite",
@@ -3703,7 +3717,7 @@
     {
       "id": "77071031-8ad9-44df-bfe8-013ff5c97e62",
       "title": "Lead Software Engineer- Front End- React- JPM Personal Investing",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "LONDON, LONDON, United Kingdom",
       "remoteType": "onsite",
@@ -3717,7 +3731,7 @@
     {
       "id": "6cf59fc7-c80f-40c2-9b8d-bc2378416f63",
       "title": "Sr. Lead Software Engineer-Full Stack/Spring Boot/React",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Wilmington, DE, United States",
       "remoteType": "onsite",
@@ -3731,7 +3745,7 @@
     {
       "id": "37e0f467-2f9a-4337-9ab5-02e0d4af72c8",
       "title": "AWS Lead Software Engineer-Full Stack/Java/React/Spring/CoPilot/Claude",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Wilmington, DE, United States",
       "remoteType": "onsite",
@@ -3967,6 +3981,20 @@
       "url": "https://www.dreamworkhq.com/job/ab499f1a-96fe-4c23-83d4-4782171642a1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "2a864437-d8df-4a24-b4e3-8cff9b12dbdc",
+      "title": "Front End Developer",
+      "company": "@ MUFG Pension & Market Services",
+      "companyDomain": "tr.mufg.jp",
+      "location": "India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-11T10:27:32.000Z",
+      "firstIndexedAt": "2026-07-12T16:32:07.893Z",
+      "url": "https://www.dreamworkhq.com/job/2a864437-d8df-4a24-b4e3-8cff9b12dbdc?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "da2335c9-1225-494c-a098-b1e8b0de8134",
       "title": "Frontend Web Development - Online Instructor - BYU-Pathway Worldwide",
       "company": "Church",
@@ -4039,7 +4067,7 @@
     {
       "id": "c19dad72-e4f2-487d-92d2-ff52f309faab",
       "title": "Lead Software Engineer - Trading Platforms GUI - TypeScript/React",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Houston, TX, United States",
       "remoteType": "onsite",
@@ -4053,7 +4081,7 @@
     {
       "id": "13cf4ea0-ea54-4f94-9397-5c464b1ea06e",
       "title": "Lead Software Engineer- Full stack Java/React",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Columbus, OH, United States",
       "remoteType": "onsite",
@@ -4067,7 +4095,7 @@
     {
       "id": "6064dda7-a26c-4b61-8283-1a408b48d1af",
       "title": "Lead Software Engineer - Full Stack - Java, React, AWS",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Chicago, IL, United States",
       "remoteType": "onsite",
@@ -4081,7 +4109,7 @@
     {
       "id": "a0c00a6e-d0b2-46a9-b698-550d4768fbb9",
       "title": "Software Engineer III - Front End / React JS",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Plano, TX, United States",
       "remoteType": "onsite",
@@ -4095,7 +4123,7 @@
     {
       "id": "28ea214e-db28-4551-9811-5fa5447102bd",
       "title": "Software Engineering III - .Net Core, React or Angular",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "New York, NY, United States",
       "remoteType": "onsite",
@@ -4109,7 +4137,7 @@
     {
       "id": "33c6260d-aa30-4722-97f1-56666a1548a7",
       "title": "Lead Software Engineer - Java/SpringBoot/React/AWS",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Wilmington, DE, United States",
       "remoteType": "onsite",
@@ -4123,7 +4151,7 @@
     {
       "id": "0f553f54-b9c1-4713-9dee-0c02b653dcba",
       "title": "Software Engineer III - Front-End Developer - ReactJS",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "remoteType": "onsite",
@@ -4137,7 +4165,7 @@
     {
       "id": "4ea50b8b-6328-4d6a-8deb-a35be14ed636",
       "title": "Lead Software Engineer - UI - React",
-      "company": "Alumni",
+      "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "LONDON, LONDON, United Kingdom",
       "remoteType": "onsite",
@@ -4193,7 +4221,7 @@
     {
       "id": "e3b55933-aad6-4ef3-8b6c-6c5e99da8b4a",
       "title": "Senior Full Stack Developer (.NET + React)",
-      "company": "MILESTONE II TECHNOLOGY S A",
+      "company": "Milestone Consulting",
       "companyDomain": "milestone.pt",
       "location": "Lisboa",
       "remoteType": "hybrid",
@@ -4221,7 +4249,7 @@
     {
       "id": "7a70a262-1290-43b4-939c-4b4c13824f60",
       "title": "Senior Frontend Developer (Remote)",
-      "company": "CLARANET",
+      "company": "Claranet Limited",
       "companyDomain": "claranet.com",
       "location": null,
       "remoteType": "remote",
@@ -4361,7 +4389,7 @@
     {
       "id": "c7edf347-51fa-4b8b-a519-a43325322f70",
       "title": "AI Native Software Engineer (Background core Java/React)",
-      "company": "Palo It",
+      "company": "Paloit",
       "companyDomain": "paloit.com",
       "location": "PALO IT Mexico",
       "remoteType": "hybrid",
@@ -4375,7 +4403,7 @@
     {
       "id": "5569df2e-c2a7-448f-bd88-c68e42745ddd",
       "title": "AI Native Software Engineer (Background core React)",
-      "company": "Palo It",
+      "company": "Paloit",
       "companyDomain": "paloit.com",
       "location": "PALO IT Mexico",
       "remoteType": "hybrid",
@@ -5983,20 +6011,6 @@
       "url": "https://www.dreamworkhq.com/job/22b4a626-0cda-4213-ae7d-b81e24d3cf98?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "394e364b-2ba5-4ae1-b389-528b16553ee4",
-      "title": "Front-end Developer",
-      "company": "Cronos NV",
-      "companyDomain": "fieldside.nl",
-      "location": "Antwerp, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 70000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T00:57:00.223Z",
-      "firstIndexedAt": "2026-07-10T18:10:58.158Z",
-      "url": "https://www.dreamworkhq.com/job/394e364b-2ba5-4ae1-b389-528b16553ee4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "a1c38e0b-fd6c-4e5e-9c3b-5ffd9b536567",
       "title": "Junior Front-end Software Developer (Antwerpen)",
       "company": "DEHORA CONSULTANCY GROUP BV",
@@ -6011,18 +6025,18 @@
       "url": "https://www.dreamworkhq.com/job/a1c38e0b-fd6c-4e5e-9c3b-5ffd9b536567?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "191104c0-6cfc-47cf-8a9f-8ebaec6a00f3",
-      "title": "Lead Front-End Developer",
+      "id": "394e364b-2ba5-4ae1-b389-528b16553ee4",
+      "title": "Front-end Developer",
       "company": "Cronos NV",
       "companyDomain": "fieldside.nl",
       "location": "Antwerp, Belgium",
       "remoteType": "onsite",
-      "salaryMin": 81000,
-      "salaryMax": 103000,
+      "salaryMin": 52000,
+      "salaryMax": 70000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-01T08:59:11.660Z",
-      "firstIndexedAt": "2026-07-10T18:10:57.471Z",
-      "url": "https://www.dreamworkhq.com/job/191104c0-6cfc-47cf-8a9f-8ebaec6a00f3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "postedAt": "2026-07-14T00:57:00.223Z",
+      "firstIndexedAt": "2026-07-10T18:10:58.158Z",
+      "url": "https://www.dreamworkhq.com/job/394e364b-2ba5-4ae1-b389-528b16553ee4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "f5891506-940a-4ee9-b523-916c939e44e3",
@@ -6037,6 +6051,20 @@
       "postedAt": "2026-07-13T20:05:56.181Z",
       "firstIndexedAt": "2026-07-10T18:10:57.471Z",
       "url": "https://www.dreamworkhq.com/job/f5891506-940a-4ee9-b523-916c939e44e3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "191104c0-6cfc-47cf-8a9f-8ebaec6a00f3",
+      "title": "Lead Front-End Developer",
+      "company": "Cronos NV",
+      "companyDomain": "fieldside.nl",
+      "location": "Antwerp, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": 81000,
+      "salaryMax": 103000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-01T08:59:11.660Z",
+      "firstIndexedAt": "2026-07-10T18:10:57.471Z",
+      "url": "https://www.dreamworkhq.com/job/191104c0-6cfc-47cf-8a9f-8ebaec6a00f3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "d7ed8b46-44a2-4ca4-a101-1fc3650db90c",
@@ -6067,20 +6095,6 @@
       "url": "https://www.dreamworkhq.com/job/8f61ad37-7c68-4d31-969c-7a037ef2817b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "fa7cf927-c6be-4c8c-91cd-ee14380270fd",
-      "title": "Front-end Software Developer (Antwerpen)",
-      "company": "DEHORA CONSULTANCY GROUP BV",
-      "companyDomain": "planpoint.be",
-      "location": "Antwerp, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 70000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-01T09:07:31.148Z",
-      "firstIndexedAt": "2026-07-10T18:10:56.844Z",
-      "url": "https://www.dreamworkhq.com/job/fa7cf927-c6be-4c8c-91cd-ee14380270fd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "1d015503-d816-4c24-9ac2-1bbcc09e057b",
       "title": "Egov Select - Senior Angular Front End Developer",
       "company": "ICTJOB BV",
@@ -6093,6 +6107,20 @@
       "postedAt": "2026-07-14T02:36:26.133Z",
       "firstIndexedAt": "2026-07-10T18:10:56.844Z",
       "url": "https://www.dreamworkhq.com/job/1d015503-d816-4c24-9ac2-1bbcc09e057b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "fa7cf927-c6be-4c8c-91cd-ee14380270fd",
+      "title": "Front-end Software Developer (Antwerpen)",
+      "company": "DEHORA CONSULTANCY GROUP BV",
+      "companyDomain": "planpoint.be",
+      "location": "Antwerp, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": 52000,
+      "salaryMax": 70000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-01T09:07:31.148Z",
+      "firstIndexedAt": "2026-07-10T18:10:56.844Z",
+      "url": "https://www.dreamworkhq.com/job/fa7cf927-c6be-4c8c-91cd-ee14380270fd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "5bd74d0b-835e-445f-8f97-7c136e044e3b",
@@ -6191,20 +6219,6 @@
       "postedAt": "2026-07-02T04:21:28.976Z",
       "firstIndexedAt": "2026-07-10T18:10:55.276Z",
       "url": "https://www.dreamworkhq.com/job/6b102495-1060-42e4-a77a-8a9cbea37adb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "ddb4b833-ffbc-4681-aa7b-57e991ecb4cf",
-      "title": "Fifth Gorilla a.k.a. Front-End Developer",
-      "company": "BIOCULAR Consulting BV",
-      "companyDomain": "goinggorillas.com",
-      "location": "East Flanders, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 67000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T22:52:08.346Z",
-      "firstIndexedAt": "2026-07-10T18:10:55.276Z",
-      "url": "https://www.dreamworkhq.com/job/ddb4b833-ffbc-4681-aa7b-57e991ecb4cf?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "d7c16277-c8bd-4146-91e0-32ed44c52b14",
@@ -6851,18 +6865,18 @@
       "url": "https://www.dreamworkhq.com/job/29ca94e9-1f6e-43f2-85cc-202634276fe3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "089f8751-8a7c-4820-8051-1b01cfc7a8a4",
-      "title": "Lead Front-End Developer",
+      "id": "0a7faaad-a7b1-4cc8-b642-6163c537df24",
+      "title": "Lead Front-end Developer",
       "company": "EDITX BV",
       "companyDomain": "lemon.tech",
       "location": "Antwerp, Belgium",
       "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 92000,
+      "salaryMin": 44000,
+      "salaryMax": 64000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-01T08:16:09.574Z",
+      "postedAt": "2026-07-13T22:12:27.330Z",
       "firstIndexedAt": "2026-07-10T18:05:31.005Z",
-      "url": "https://www.dreamworkhq.com/job/089f8751-8a7c-4820-8051-1b01cfc7a8a4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/0a7faaad-a7b1-4cc8-b642-6163c537df24?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "c1138438-d4d8-4443-88d9-8ca35da043d6",
@@ -7229,20 +7243,6 @@
       "url": "https://www.dreamworkhq.com/job/0247687b-322f-473d-af18-445eb90f7d4c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "07d323d9-1d87-4f3b-9002-a9ccc0b7ed47",
-      "title": "Mid-Level Everything Engineer (Front End)",
-      "company": "Redhorsecorp",
-      "companyDomain": "redhorsecorp.com",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": 125000,
-      "salaryMax": 175000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T16:31:19.637Z",
-      "firstIndexedAt": "2026-07-10T06:08:15.205Z",
-      "url": "https://www.dreamworkhq.com/job/07d323d9-1d87-4f3b-9002-a9ccc0b7ed47?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "3cd7ad35-5890-4a5f-97f0-4cce9d3a93cf",
       "title": "Senior Everything Engineer (Front End)",
       "company": "Redhorsecorp",
@@ -7255,6 +7255,20 @@
       "postedAt": "2026-07-09T16:28:47.924Z",
       "firstIndexedAt": "2026-07-10T06:08:15.205Z",
       "url": "https://www.dreamworkhq.com/job/3cd7ad35-5890-4a5f-97f0-4cce9d3a93cf?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "07d323d9-1d87-4f3b-9002-a9ccc0b7ed47",
+      "title": "Mid-Level Everything Engineer (Front End)",
+      "company": "Redhorsecorp",
+      "companyDomain": "redhorsecorp.com",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": 125000,
+      "salaryMax": 175000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T16:31:19.637Z",
+      "firstIndexedAt": "2026-07-10T06:08:15.205Z",
+      "url": "https://www.dreamworkhq.com/job/07d323d9-1d87-4f3b-9002-a9ccc0b7ed47?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "59bde33a-a83c-498c-8339-904c25f089d3",
@@ -7579,34 +7593,6 @@
       "url": "https://www.dreamworkhq.com/job/7b494909-66ae-4d8f-83e0-89675fd309f6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "07429a02-acc9-42d2-a698-1c47077c5646",
-      "title": "Staff Front End Engineer - Mobile Platform",
-      "company": "Canva",
-      "companyDomain": "canva.com",
-      "location": "Brisbane, QLD, Australia",
-      "remoteType": "remote",
-      "salaryMin": 132000,
-      "salaryMax": 172000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T07:56:06.850Z",
-      "firstIndexedAt": "2026-07-10T05:27:33.912Z",
-      "url": "https://www.dreamworkhq.com/job/07429a02-acc9-42d2-a698-1c47077c5646?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "9b2f7bac-82e9-41a3-9841-91616d140fcb",
-      "title": "Staff Front End Engineer - Mobile Platform",
-      "company": "Canva",
-      "companyDomain": "canva.com",
-      "location": "Sydney, , Australia",
-      "remoteType": "hybrid",
-      "salaryMin": 145000,
-      "salaryMax": 185000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T07:57:00.614Z",
-      "firstIndexedAt": "2026-07-10T05:27:33.912Z",
-      "url": "https://www.dreamworkhq.com/job/9b2f7bac-82e9-41a3-9841-91616d140fcb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "7f4447bc-f8e0-46e5-9bf9-3195745d3814",
       "title": "Staff Front End Engineer - Mobile Platform",
       "company": "Canva",
@@ -7619,6 +7605,34 @@
       "postedAt": "2026-07-09T07:55:36.487Z",
       "firstIndexedAt": "2026-07-10T05:27:33.912Z",
       "url": "https://www.dreamworkhq.com/job/7f4447bc-f8e0-46e5-9bf9-3195745d3814?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "797887aa-a291-40df-9667-8ebe85cd5823",
+      "title": "Staff Front End Engineer - Mobile Platform",
+      "company": "Canva",
+      "companyDomain": "canva.com",
+      "location": "Sydney, , Australia",
+      "remoteType": "onsite",
+      "salaryMin": 145000,
+      "salaryMax": 185000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T07:54:29.116Z",
+      "firstIndexedAt": "2026-07-10T05:27:33.912Z",
+      "url": "https://www.dreamworkhq.com/job/797887aa-a291-40df-9667-8ebe85cd5823?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "07429a02-acc9-42d2-a698-1c47077c5646",
+      "title": "Staff Front End Engineer - Mobile Platform",
+      "company": "Canva",
+      "companyDomain": "canva.com",
+      "location": "Brisbane, QLD, Australia",
+      "remoteType": "remote",
+      "salaryMin": 132000,
+      "salaryMax": 172000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T07:56:06.850Z",
+      "firstIndexedAt": "2026-07-10T05:27:33.912Z",
+      "url": "https://www.dreamworkhq.com/job/07429a02-acc9-42d2-a698-1c47077c5646?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "54457a64-3e31-411f-812b-2f992fafda1f",
@@ -7721,7 +7735,7 @@
     {
       "id": "1e876a54-5cff-4ac8-98c4-f00b9f42b9be",
       "title": "Frontend Engineer",
-      "company": "Fanatics Collectibles",
+      "company": "Fanatics",
       "companyDomain": "fanatics.com",
       "location": "New York, NY, United States",
       "remoteType": "onsite",
@@ -7731,20 +7745,6 @@
       "postedAt": "2026-05-28T14:56:41.000Z",
       "firstIndexedAt": "2026-07-10T04:42:27.927Z",
       "url": "https://www.dreamworkhq.com/job/1e876a54-5cff-4ac8-98c4-f00b9f42b9be?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "ca61865f-bd1f-43d3-926f-53ffa8bdde3e",
-      "title": "Senior Principal Front-End Network Engineer, AI Infrastructure Operations",
-      "company": "Nscale",
-      "companyDomain": "nscale.com",
-      "location": "Houston; New York; San Francisco; Seattle",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-06-02T13:59:05.000Z",
-      "firstIndexedAt": "2026-07-10T04:18:04.458Z",
-      "url": "https://www.dreamworkhq.com/job/ca61865f-bd1f-43d3-926f-53ffa8bdde3e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "c5b57193-7664-45eb-b2d5-631af5fa190b",
@@ -7759,6 +7759,20 @@
       "postedAt": "2026-06-02T13:54:11.000Z",
       "firstIndexedAt": "2026-07-10T04:18:04.458Z",
       "url": "https://www.dreamworkhq.com/job/c5b57193-7664-45eb-b2d5-631af5fa190b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "ca61865f-bd1f-43d3-926f-53ffa8bdde3e",
+      "title": "Senior Principal Front-End Network Engineer, AI Infrastructure Operations",
+      "company": "Nscale",
+      "companyDomain": "nscale.com",
+      "location": "Houston; New York; San Francisco; Seattle",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-06-02T13:59:05.000Z",
+      "firstIndexedAt": "2026-07-10T04:18:04.458Z",
+      "url": "https://www.dreamworkhq.com/job/ca61865f-bd1f-43d3-926f-53ffa8bdde3e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "384ac69b-8f00-4b47-a16f-f3ce74cca433",
@@ -8389,20 +8403,6 @@
       "postedAt": "2026-07-08T06:12:27.476Z",
       "firstIndexedAt": "2026-07-09T06:06:08.738Z",
       "url": "https://www.dreamworkhq.com/job/8f715b41-354c-4216-bfcc-039f78acec5c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "8f1e69af-df3b-474b-80a3-3626f3d5a365",
-      "title": "Front End Engineer, Integrated Video Experiences",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, WA, Seattle",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 285000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-07-09T06:05:44.686Z",
-      "url": "https://www.dreamworkhq.com/job/8f1e69af-df3b-474b-80a3-3626f3d5a365?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     }
   ]
 }
