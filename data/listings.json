@@ -1,9 +1,384 @@
 {
-  "generatedAt": "2026-10-25T14:51:33.687Z",
+  "generatedAt": "2026-10-26T17:14:22.305Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Frontend-React-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "5d2dfd97-1600-4e07-8816-c3a606799e42",
+      "title": "Software Engineer II - Java Full Stack with Reacts, TypeScript, Agentic Development - BLR - WT - EP",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Bengaluru, Karnataka, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T09:31:13.000Z",
+      "firstIndexedAt": "2026-10-26T16:34:33.863Z",
+      "url": "https://www.dreamworkhq.com/job/5d2dfd97-1600-4e07-8816-c3a606799e42?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "77656aaf-676a-4053-9da2-f936cf11c8ac",
+      "title": "React/Java Lead Fullstack Engineer - Lead Software Engineer",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Tampa, FL, United States",
+      "remoteType": "onsite",
+      "salaryMin": 156750,
+      "salaryMax": 215000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T13:37:25.000Z",
+      "firstIndexedAt": "2026-10-26T16:34:32.661Z",
+      "url": "https://www.dreamworkhq.com/job/77656aaf-676a-4053-9da2-f936cf11c8ac?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "a33c407d-1f6f-4bae-9279-a8c59d9d114d",
+      "title": "Software Engineer III - Java Full Stack, React",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Bengaluru, Karnataka, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T13:19:23.000Z",
+      "firstIndexedAt": "2026-10-26T16:34:31.568Z",
+      "url": "https://www.dreamworkhq.com/job/a33c407d-1f6f-4bae-9279-a8c59d9d114d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "7ae2682f-45c0-4ad4-9ba8-be83f9a6b1e7",
+      "title": "Software Engineer II - Fullstack (Java, React, AWS)",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Mumbai, Maharashtra, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T13:58:15.000Z",
+      "firstIndexedAt": "2026-10-26T16:34:31.568Z",
+      "url": "https://www.dreamworkhq.com/job/7ae2682f-45c0-4ad4-9ba8-be83f9a6b1e7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "61c7685c-3e12-465a-a1ea-bd300e6ee3d7",
+      "title": "Lead Software Engineer - Java Full Stack, React",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Bengaluru, Karnataka, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T05:46:33.000Z",
+      "firstIndexedAt": "2026-10-26T16:34:31.568Z",
+      "url": "https://www.dreamworkhq.com/job/61c7685c-3e12-465a-a1ea-bd300e6ee3d7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "62377b65-5d2d-487e-bcc9-9cd1de6e5b8e",
+      "title": "Full Stack Developer (.Net/React)",
+      "company": "Adentis",
+      "companyDomain": "adentis.pt",
+      "location": "Lisboa",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T13:42:22.000Z",
+      "firstIndexedAt": "2026-10-26T14:45:36.683Z",
+      "url": "https://www.dreamworkhq.com/job/62377b65-5d2d-487e-bcc9-9cd1de6e5b8e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "5cb720a7-6213-469b-b9f9-c0cf952045d0",
+      "title": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "companyDomain": "reddit.com",
+      "location": null,
+      "remoteType": "remote",
+      "salaryMin": 164200,
+      "salaryMax": 229900,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T07:31:27.000Z",
+      "firstIndexedAt": "2026-10-26T14:45:34.261Z",
+      "url": "https://www.dreamworkhq.com/job/5cb720a7-6213-469b-b9f9-c0cf952045d0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "a53d300f-fcab-4f9e-ac58-811f2a888973",
+      "title": "Java React Full Stack Developer - London, UK (PERM)",
+      "company": "Randstad Technologies",
+      "companyDomain": "randstadtechnologies.com",
+      "location": "London",
+      "remoteType": "hybrid",
+      "salaryMin": 79000,
+      "salaryMax": 106000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-26T12:46:21.132Z",
+      "url": "https://www.dreamworkhq.com/job/a53d300f-fcab-4f9e-ac58-811f2a888973?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "30886b46-7775-42fa-a18d-c85bb95ecf9d",
+      "title": "React.JS Developer",
+      "company": "Capco",
+      "companyDomain": "capco.com",
+      "location": "India - Bengaluru",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T09:20:07.000Z",
+      "firstIndexedAt": "2026-10-26T12:15:33.158Z",
+      "url": "https://www.dreamworkhq.com/job/30886b46-7775-42fa-a18d-c85bb95ecf9d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "18bff18e-fc74-4048-9192-0aa59264ec51",
+      "title": "Front End Engineer",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "companyDomain": "harnham.com",
+      "location": "London",
+      "remoteType": null,
+      "salaryMin": 106000,
+      "salaryMax": 106000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-26T10:16:29.003Z",
+      "url": "https://www.dreamworkhq.com/job/18bff18e-fc74-4048-9192-0aa59264ec51?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "0b77ccd1-41b9-49cf-ab65-037c967a5c53",
+      "title": "Arealead Frontend foundation",
+      "company": "Rabobank",
+      "companyDomain": "rabobank.com",
+      "location": "Utrecht Croeselaan 18",
+      "remoteType": "hybrid",
+      "salaryMin": 140000,
+      "salaryMax": 200000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T12:46:22.114Z",
+      "firstIndexedAt": "2026-10-26T09:33:40.552Z",
+      "url": "https://www.dreamworkhq.com/job/0b77ccd1-41b9-49cf-ab65-037c967a5c53?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "2583bfa2-12dd-4761-a1e3-6b8b9bcf4f8f",
+      "title": "Frontend Product Engineer",
+      "company": "Ftmo",
+      "companyDomain": "ftmo.com",
+      "location": "Prague office",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T08:22:57.835Z",
+      "firstIndexedAt": "2026-10-26T09:15:27.531Z",
+      "url": "https://www.dreamworkhq.com/job/2583bfa2-12dd-4761-a1e3-6b8b9bcf4f8f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "6c5d09c8-fc0e-4b62-8c8b-21fcefb04411",
+      "title": "Front End Developer (Mobile)",
+      "company": "Total Dealer Pty Ltd",
+      "companyDomain": "dealerstudio.com.au",
+      "location": "Brisbane QLD",
+      "remoteType": "hybrid",
+      "salaryMin": 45000,
+      "salaryMax": 55000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T04:41:21.000Z",
+      "firstIndexedAt": "2026-10-26T06:50:50.102Z",
+      "url": "https://www.dreamworkhq.com/job/6c5d09c8-fc0e-4b62-8c8b-21fcefb04411?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "2f980a4e-d520-4be9-8567-fe7d00ca5bf7",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "CommBank",
+      "companyDomain": "doshii.io",
+      "location": "Eveleigh, Sydney NSW",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T06:26:38.000Z",
+      "firstIndexedAt": "2026-10-26T06:50:49.377Z",
+      "url": "https://www.dreamworkhq.com/job/2f980a4e-d520-4be9-8567-fe7d00ca5bf7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "c9a552e8-1f0c-43ab-b704-e0d1b0c30fc3",
+      "title": "Systems Specialist (Frontend Development)",
+      "company": "Worldvision",
+      "companyDomain": "worldvision.org",
+      "location": "Quezon City, Philippines",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T16:00:43.353Z",
+      "firstIndexedAt": "2026-10-26T06:30:48.761Z",
+      "url": "https://www.dreamworkhq.com/job/c9a552e8-1f0c-43ab-b704-e0d1b0c30fc3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "755ec006-19a2-4027-924b-ae89c13f9a83",
+      "title": "Lead Engineer - Front End (React)",
+      "company": "Xero",
+      "companyDomain": "xero.com",
+      "location": "NZ: Wellington: Xero One (19-23 Taranaki St)",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T02:40:57.031Z",
+      "firstIndexedAt": "2026-10-26T04:00:22.400Z",
+      "url": "https://www.dreamworkhq.com/job/755ec006-19a2-4027-924b-ae89c13f9a83?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "e107f557-638a-4b0c-b26c-6bb755c74947",
+      "title": "Lead Engineer - Front End (React)",
+      "company": "Xero",
+      "companyDomain": "xero.com",
+      "location": "AU: Melbourne: (260 Burwood Rd)",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T02:39:39.274Z",
+      "firstIndexedAt": "2026-10-26T04:00:22.400Z",
+      "url": "https://www.dreamworkhq.com/job/e107f557-638a-4b0c-b26c-6bb755c74947?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "74352fb9-a4ef-4197-b6f2-f64ecfd4c64b",
+      "title": "Staff Full Stack Engineer (React, Next.js, TypeScript, GraphQL)",
+      "company": "Software at Scale",
+      "companyDomain": "softwareatscale.com",
+      "location": "Sydney NSW",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T00:21:29.000Z",
+      "firstIndexedAt": "2026-10-26T02:51:05.792Z",
+      "url": "https://www.dreamworkhq.com/job/74352fb9-a4ef-4197-b6f2-f64ecfd4c64b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "fa1aa656-2309-4f66-b357-32ffe825673c",
+      "title": "Founding Frontend Engineer",
+      "company": "KIND ADVISORY PTY LTD",
+      "companyDomain": null,
+      "location": "Sydney NSW",
+      "remoteType": "hybrid",
+      "salaryMin": 139000,
+      "salaryMax": 139000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T01:25:52.000Z",
+      "firstIndexedAt": "2026-10-26T02:51:04.650Z",
+      "url": "https://www.dreamworkhq.com/job/fa1aa656-2309-4f66-b357-32ffe825673c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "5feb49a6-5a9e-42fd-90c8-77ce7a19f159",
+      "title": "Frontend Developer (Next.js / React.js)",
+      "company": "HyrEzy Talent Solutions",
+      "companyDomain": "hyrezy.com",
+      "location": "Bangalore Urban, Karnataka, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-25T16:01:14.000Z",
+      "firstIndexedAt": "2026-10-26T02:30:34.075Z",
+      "url": "https://www.dreamworkhq.com/job/5feb49a6-5a9e-42fd-90c8-77ce7a19f159?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "732fda68-053f-4bdd-87ff-3d588b9d584c",
+      "title": "eCommerce Sr. Front End Architect",
+      "company": "PVH",
+      "companyDomain": "calvinklein.com",
+      "location": "Office India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-26T01:02:04.164Z",
+      "firstIndexedAt": "2026-10-25T23:46:48.089Z",
+      "url": "https://www.dreamworkhq.com/job/732fda68-053f-4bdd-87ff-3d588b9d584c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "85f61ffd-1029-463e-8c89-b8e7f1b5f0a6",
+      "title": "Salesforce Commerce Cloud Front End PWA Developer",
+      "company": "PVH",
+      "companyDomain": "calvinklein.com",
+      "location": "Office India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-25T23:46:48.089Z",
+      "url": "https://www.dreamworkhq.com/job/85f61ffd-1029-463e-8c89-b8e7f1b5f0a6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "6d7df644-ba82-4dd9-91c7-505f73ed2402",
+      "title": "FrontEnd Developer",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Belen",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-22T23:03:57.429Z",
+      "firstIndexedAt": "2026-10-25T15:35:40.907Z",
+      "url": "https://www.dreamworkhq.com/job/6d7df644-ba82-4dd9-91c7-505f73ed2402?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "565ac1a5-0a69-455e-a474-848ff7b5fabb",
+      "title": "Desenvolvedor(a) Front End Angular | Especialista | Tech Lead",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Sao Paulo, Torre Paineira",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-22T23:03:57.429Z",
+      "firstIndexedAt": "2026-10-25T15:35:40.907Z",
+      "url": "https://www.dreamworkhq.com/job/565ac1a5-0a69-455e-a474-848ff7b5fabb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "f6bb5d7b-131d-4e75-88cf-6ef86396a019",
+      "title": "Front-End AI Engineer: Agentic AI Studio & Agentic AI as a Service Specialist",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Mountain View, 650 Castro, Corp",
+      "remoteType": "hybrid",
+      "salaryMin": 70350,
+      "salaryMax": 205800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-10-24T16:20:23.128Z",
+      "firstIndexedAt": "2026-10-25T15:35:27.796Z",
+      "url": "https://www.dreamworkhq.com/job/f6bb5d7b-131d-4e75-88cf-6ef86396a019?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
     {
       "id": "91165af0-a0bc-4f3e-8407-aeeb850f022e",
       "title": "Lead Developer IV, Front End",
@@ -185,19 +560,19 @@
       "url": "https://www.dreamworkhq.com/job/a357645d-3bf0-4816-a9ac-bdee7183b33e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "6e4f13f8-4e37-4ffb-a4bb-a775f7e1b763",
+      "id": "0fb60555-d0ba-4dc7-8a7c-c8231647767f",
       "title": "JavaScript Software Developer II",
       "company": "Aylo",
       "companyDomain": "aylo.com",
-      "location": "Athens, Greece",
+      "location": "Thessaloniki, Greece",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T12:23:04.000Z",
+      "postedAt": "2026-10-23T12:23:08.000Z",
       "firstIndexedAt": "2026-10-24T21:45:42.784Z",
-      "url": "https://www.dreamworkhq.com/job/6e4f13f8-4e37-4ffb-a4bb-a775f7e1b763?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/0fb60555-d0ba-4dc7-8a7c-c8231647767f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "1430e82e-9e80-46af-8ce9-577f6fcded62",
@@ -215,19 +590,19 @@
       "url": "https://www.dreamworkhq.com/job/1430e82e-9e80-46af-8ce9-577f6fcded62?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "0fb60555-d0ba-4dc7-8a7c-c8231647767f",
+      "id": "6e4f13f8-4e37-4ffb-a4bb-a775f7e1b763",
       "title": "JavaScript Software Developer II",
       "company": "Aylo",
       "companyDomain": "aylo.com",
-      "location": "Thessaloniki, Greece",
+      "location": "Athens, Greece",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T12:23:08.000Z",
+      "postedAt": "2026-10-23T12:23:04.000Z",
       "firstIndexedAt": "2026-10-24T21:45:42.784Z",
-      "url": "https://www.dreamworkhq.com/job/0fb60555-d0ba-4dc7-8a7c-c8231647767f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/6e4f13f8-4e37-4ffb-a4bb-a775f7e1b763?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "5ab5873e-42e1-4c8b-b77d-60ebc4d53806",
@@ -335,21 +710,6 @@
       "url": "https://www.dreamworkhq.com/job/df95c55a-3e6a-41be-9c38-5d62138b8c65?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "5afca409-4e99-4d3b-b0a8-8b6735c600a8",
-      "title": "Java Developer (w/React)",
-      "company": "Integer Consulting",
-      "companyDomain": "integerconsulting.pt",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T12:29:30.000Z",
-      "firstIndexedAt": "2026-10-24T11:30:48.076Z",
-      "url": "https://www.dreamworkhq.com/job/5afca409-4e99-4d3b-b0a8-8b6735c600a8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "bfbc1c05-f1ab-47cd-b645-1703ffd656ba",
       "title": "Full Stack Developer .Net com React",
       "company": "agap2IT",
@@ -363,6 +723,21 @@
       "postedAt": "2026-10-23T12:28:40.000Z",
       "firstIndexedAt": "2026-10-24T11:30:48.076Z",
       "url": "https://www.dreamworkhq.com/job/bfbc1c05-f1ab-47cd-b645-1703ffd656ba?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "5afca409-4e99-4d3b-b0a8-8b6735c600a8",
+      "title": "Java Developer (w/React)",
+      "company": "Integer Consulting",
+      "companyDomain": "integerconsulting.pt",
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-23T12:29:30.000Z",
+      "firstIndexedAt": "2026-10-24T11:30:48.076Z",
+      "url": "https://www.dreamworkhq.com/job/5afca409-4e99-4d3b-b0a8-8b6735c600a8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "8124ad48-672d-4f43-8f90-00ffe4f14f6c",
@@ -405,7 +780,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T02:54:39.900Z",
+      "postedAt": "2026-10-23T16:49:55.483Z",
       "firstIndexedAt": "2026-10-24T09:08:27.369Z",
       "url": "https://www.dreamworkhq.com/job/c43f6546-37e4-44dc-98fa-49ea0be497d0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -450,7 +825,7 @@
       "salaryMax": 190523,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T17:31:35.866Z",
+      "postedAt": "2026-10-24T08:39:47.255Z",
       "firstIndexedAt": "2026-10-24T04:04:33.968Z",
       "url": "https://www.dreamworkhq.com/job/9827c243-e0b4-4f4f-8351-09d9f1725290?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -480,7 +855,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T18:00:22.134Z",
+      "postedAt": "2026-10-23T18:15:39.551Z",
       "firstIndexedAt": "2026-10-24T03:21:29.275Z",
       "url": "https://www.dreamworkhq.com/job/e093be3c-8c4f-4125-8e8d-e24a396fbedb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -960,24 +1335,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T18:15:34.114Z",
+      "postedAt": "2026-10-23T18:30:30.030Z",
       "firstIndexedAt": "2026-10-24T02:16:26.761Z",
       "url": "https://www.dreamworkhq.com/job/0f330a20-c7f0-4960-a133-8226c410b978?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "27af84ab-11f6-46b0-80e9-58c3b78f02b7",
-      "title": "Fullstack .NET React (Híbrido - Lisboa) (M/F)",
-      "company": "Sysmatch IT Consulting",
-      "companyDomain": "sysmatch.pt",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": 39000,
-      "salaryMax": 51000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T17:35:53.000Z",
-      "firstIndexedAt": "2026-10-24T02:04:29.531Z",
-      "url": "https://www.dreamworkhq.com/job/27af84ab-11f6-46b0-80e9-58c3b78f02b7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "53e36602-919d-41be-baf4-e0ed2d2385ea",
@@ -995,6 +1355,21 @@
       "url": "https://www.dreamworkhq.com/job/53e36602-919d-41be-baf4-e0ed2d2385ea?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "27af84ab-11f6-46b0-80e9-58c3b78f02b7",
+      "title": "Fullstack .NET React (Híbrido - Lisboa) (M/F)",
+      "company": "Sysmatch IT Consulting",
+      "companyDomain": "sysmatch.pt",
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": 39000,
+      "salaryMax": 51000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-23T17:35:53.000Z",
+      "firstIndexedAt": "2026-10-24T02:04:29.531Z",
+      "url": "https://www.dreamworkhq.com/job/27af84ab-11f6-46b0-80e9-58c3b78f02b7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "c299e188-eb01-4145-89bd-a1f249cdd75c",
       "title": "Front End Engineering Manager, Software Engineering – AWT, Vice President",
       "company": "BlackRock",
@@ -1005,7 +1380,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T16:03:57.308Z",
+      "postedAt": "2026-10-23T16:19:55.418Z",
       "firstIndexedAt": "2026-10-24T01:52:54.694Z",
       "url": "https://www.dreamworkhq.com/job/c299e188-eb01-4145-89bd-a1f249cdd75c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1110,7 +1485,7 @@
       "salaryMax": 157500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T13:33:10.315Z",
+      "postedAt": "2026-10-23T15:50:17.088Z",
       "firstIndexedAt": "2026-10-23T23:30:17.810Z",
       "url": "https://www.dreamworkhq.com/job/7490ae3b-49a6-462d-9c19-2b1cd4b88e25?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1125,7 +1500,7 @@
       "salaryMax": 188600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T14:02:40.135Z",
+      "postedAt": "2026-10-24T03:32:32.467Z",
       "firstIndexedAt": "2026-10-23T23:10:07.408Z",
       "url": "https://www.dreamworkhq.com/job/733e4dcb-7800-4c14-b92b-7ef21f90eff2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1155,7 +1530,7 @@
       "salaryMax": 42000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T04:02:49.380Z",
+      "postedAt": "2026-10-24T04:16:57.205Z",
       "firstIndexedAt": "2026-10-23T21:23:27.765Z",
       "url": "https://www.dreamworkhq.com/job/8fd6126e-0406-4724-b8ad-da21706fc788?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1265,6 +1640,36 @@
       "url": "https://www.dreamworkhq.com/job/b92e98bb-8b82-4503-bb97-db96cb779b0a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "034ac384-871c-4ebd-8037-b3e525d2b04b",
+      "title": "Senior Full-Stack Software Engineer (Java/Typescript/Python) - Tieto Tech Consulting (m/f/d)",
+      "company": "Tieto2",
+      "companyDomain": "tieto.com",
+      "location": "Plovdiv, Plovdiv Province, Bulgaria",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-23T11:58:49.993Z",
+      "firstIndexedAt": "2026-10-23T19:15:32.692Z",
+      "url": "https://www.dreamworkhq.com/job/034ac384-871c-4ebd-8037-b3e525d2b04b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "f21fdf62-0170-49d3-904d-749931cbf6b7",
+      "title": "Senior Full-Stack Software Engineer (Java/Typescript/Python) - Tieto Tech Consulting (m/f/d)",
+      "company": "Tieto2",
+      "companyDomain": "tieto.com",
+      "location": "Sofia, , Bulgaria",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-23T11:18:46.992Z",
+      "firstIndexedAt": "2026-10-23T19:15:32.692Z",
+      "url": "https://www.dreamworkhq.com/job/f21fdf62-0170-49d3-904d-749931cbf6b7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "fa6fbf49-2527-408a-9e9d-3a585fe8b7b9",
       "title": "Senior Full-Stack Software Engineer (Java/Typescript/Python) - Tieto Tech Consulting (m/f/d)",
       "company": "Tieto2",
@@ -1295,36 +1700,6 @@
       "url": "https://www.dreamworkhq.com/job/4f9d45ad-7d07-45e3-a889-6892ba9657a4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "f21fdf62-0170-49d3-904d-749931cbf6b7",
-      "title": "Senior Full-Stack Software Engineer (Java/Typescript/Python) - Tieto Tech Consulting (m/f/d)",
-      "company": "Tieto2",
-      "companyDomain": "tieto.com",
-      "location": "Sofia, , Bulgaria",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T11:18:46.992Z",
-      "firstIndexedAt": "2026-10-23T19:15:32.692Z",
-      "url": "https://www.dreamworkhq.com/job/f21fdf62-0170-49d3-904d-749931cbf6b7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "034ac384-871c-4ebd-8037-b3e525d2b04b",
-      "title": "Senior Full-Stack Software Engineer (Java/Typescript/Python) - Tieto Tech Consulting (m/f/d)",
-      "company": "Tieto2",
-      "companyDomain": "tieto.com",
-      "location": "Plovdiv, Plovdiv Province, Bulgaria",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T11:58:49.993Z",
-      "firstIndexedAt": "2026-10-23T19:15:32.692Z",
-      "url": "https://www.dreamworkhq.com/job/034ac384-871c-4ebd-8037-b3e525d2b04b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "5f62fa3a-4391-42cf-9842-e7f724e90c6d",
       "title": "Full Stack Engineer(React and GO)",
       "company": "Miratech",
@@ -1338,21 +1713,6 @@
       "postedAt": "2026-10-23T08:11:09.113Z",
       "firstIndexedAt": "2026-10-23T19:15:28.440Z",
       "url": "https://www.dreamworkhq.com/job/5f62fa3a-4391-42cf-9842-e7f724e90c6d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "ed7daff1-4073-4bc5-b87b-bf8372235572",
-      "title": "Full Stack Engineer(React and GO)",
-      "company": "Miratech",
-      "companyDomain": "miratechgroup.com",
-      "location": "Indiana, PA, United States",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T08:12:41.810Z",
-      "firstIndexedAt": "2026-10-23T19:15:28.440Z",
-      "url": "https://www.dreamworkhq.com/job/ed7daff1-4073-4bc5-b87b-bf8372235572?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "55485df0-c17f-4bad-ab05-15793d9e31ff",
@@ -1385,21 +1745,6 @@
       "url": "https://www.dreamworkhq.com/job/b8c02d2c-8319-4da7-9ad4-3bdf1c500303?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "13c53fd4-1667-476a-999a-c62850cfd559",
-      "title": "Full Stack Engineer(React and GO)",
-      "company": "Miratech",
-      "companyDomain": "miratechgroup.com",
-      "location": "Toronto, ON, Canada",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T08:10:00.828Z",
-      "firstIndexedAt": "2026-10-23T19:15:28.440Z",
-      "url": "https://www.dreamworkhq.com/job/13c53fd4-1667-476a-999a-c62850cfd559?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "483de019-7939-49fa-a9cc-1d7eb727007c",
       "title": "Full Stack Engineer(React and GO)",
       "company": "Miratech",
@@ -1413,6 +1758,21 @@
       "postedAt": "2026-10-23T08:05:08.174Z",
       "firstIndexedAt": "2026-10-23T19:15:28.440Z",
       "url": "https://www.dreamworkhq.com/job/483de019-7939-49fa-a9cc-1d7eb727007c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "ed7daff1-4073-4bc5-b87b-bf8372235572",
+      "title": "Full Stack Engineer(React and GO)",
+      "company": "Miratech",
+      "companyDomain": "miratechgroup.com",
+      "location": "Indiana, PA, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-23T08:12:41.810Z",
+      "firstIndexedAt": "2026-10-23T19:15:28.440Z",
+      "url": "https://www.dreamworkhq.com/job/ed7daff1-4073-4bc5-b87b-bf8372235572?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "287440c4-7992-499b-9757-5beb69ae41a1",
@@ -1655,21 +2015,6 @@
       "url": "https://www.dreamworkhq.com/job/46f567b7-d181-4084-a018-eb2d92d93a80?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "49ae2c78-24d9-4eef-87fd-0dadbbd81450",
-      "title": "Principal Software Engineer - Full Stack (React, Next.js, Node.js, .Net)",
-      "company": "Cba",
-      "companyDomain": "commbank.com.au",
-      "location": "Sydney CBD Area",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T04:15:31.229Z",
-      "firstIndexedAt": "2026-10-23T14:02:53.966Z",
-      "url": "https://www.dreamworkhq.com/job/49ae2c78-24d9-4eef-87fd-0dadbbd81450?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "d7175053-4854-4cba-8f25-bb3be16e7290",
       "title": "Staff Software Engineer - Full Stack (React, Next.js, Node.js,.NET)",
       "company": "Cba",
@@ -1683,6 +2028,21 @@
       "postedAt": "2026-10-24T04:15:31.479Z",
       "firstIndexedAt": "2026-10-23T14:02:53.966Z",
       "url": "https://www.dreamworkhq.com/job/d7175053-4854-4cba-8f25-bb3be16e7290?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "49ae2c78-24d9-4eef-87fd-0dadbbd81450",
+      "title": "Principal Software Engineer - Full Stack (React, Next.js, Node.js, .Net)",
+      "company": "Cba",
+      "companyDomain": "commbank.com.au",
+      "location": "Sydney CBD Area",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-24T04:15:31.229Z",
+      "firstIndexedAt": "2026-10-23T14:02:53.966Z",
+      "url": "https://www.dreamworkhq.com/job/49ae2c78-24d9-4eef-87fd-0dadbbd81450?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "14cc93ab-795a-4497-872b-72751428c28a",
@@ -1830,7 +2190,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T00:00:00.000Z",
+      "postedAt": "2026-10-26T00:00:00.000Z",
       "firstIndexedAt": "2026-10-23T13:03:03.381Z",
       "url": "https://www.dreamworkhq.com/job/6a683744-85e3-441f-a5bd-3839a023aa30?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1860,7 +2220,7 @@
       "salaryMax": 166850,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T08:18:03.834Z",
+      "postedAt": "2026-10-22T10:21:21.166Z",
       "firstIndexedAt": "2026-10-23T12:41:53.433Z",
       "url": "https://www.dreamworkhq.com/job/7928c9c7-57ba-4bba-8eeb-5d84651cf77c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1935,7 +2295,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T15:04:19.613Z",
+      "postedAt": "2026-10-23T13:19:42.452Z",
       "firstIndexedAt": "2026-10-23T11:07:27.200Z",
       "url": "https://www.dreamworkhq.com/job/d34099b0-f569-4656-aede-4ce61d8faf4f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -1950,7 +2310,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T15:04:19.868Z",
+      "postedAt": "2026-10-23T13:19:42.636Z",
       "firstIndexedAt": "2026-10-23T11:07:27.200Z",
       "url": "https://www.dreamworkhq.com/job/b2882879-7216-4425-97f6-c2ef40b2cced?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -2030,7 +2390,7 @@
       "url": "https://www.dreamworkhq.com/job/14fbd1c7-a582-4d46-a282-94e854accd7a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "8d60ec42-35d8-4f09-897e-0780b2c06ba9",
+      "id": "9e29c765-a561-4bc1-8c07-d57bac2099e2",
       "title": "React Full Stack with .NET",
       "company": "Synechron",
       "companyDomain": "synechron.com",
@@ -2040,9 +2400,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T04:45:31.183Z",
+      "postedAt": "2026-10-24T05:00:33.836Z",
       "firstIndexedAt": "2026-10-23T08:25:11.192Z",
-      "url": "https://www.dreamworkhq.com/job/8d60ec42-35d8-4f09-897e-0780b2c06ba9?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/9e29c765-a561-4bc1-8c07-d57bac2099e2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "5a277ead-4fc5-4366-9620-8b41c6a24286",
@@ -2085,7 +2445,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T22:34:43.015Z",
+      "postedAt": "2026-10-24T13:48:39.982Z",
       "firstIndexedAt": "2026-10-23T06:03:06.906Z",
       "url": "https://www.dreamworkhq.com/job/e8336f9e-ba10-4eaa-9500-c247937889a4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -2120,21 +2480,6 @@
       "url": "https://www.dreamworkhq.com/job/343a4c05-a67a-48c4-a579-b14390ef6999?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "ca7dbdbe-b376-4452-8bd3-2495229bb559",
-      "title": "Full Stack Engineer (Go and React)",
-      "company": "Miratech",
-      "companyDomain": "miratechgroup.com",
-      "location": "Bengaluru, , India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T15:34:36.722Z",
-      "firstIndexedAt": "2026-10-23T03:45:32.303Z",
-      "url": "https://www.dreamworkhq.com/job/ca7dbdbe-b376-4452-8bd3-2495229bb559?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "3428383b-8173-420d-b5f9-df7ddaa229eb",
       "title": "Full Stack Engineer (Go and React)",
       "company": "Miratech",
@@ -2163,6 +2508,21 @@
       "postedAt": "2026-10-22T15:35:06.718Z",
       "firstIndexedAt": "2026-10-23T03:45:32.303Z",
       "url": "https://www.dreamworkhq.com/job/4a3b786a-3f69-4c49-bdda-c21f51c67d1e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "ca7dbdbe-b376-4452-8bd3-2495229bb559",
+      "title": "Full Stack Engineer (Go and React)",
+      "company": "Miratech",
+      "companyDomain": "miratechgroup.com",
+      "location": "Bengaluru, , India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-22T15:34:36.722Z",
+      "firstIndexedAt": "2026-10-23T03:45:32.303Z",
+      "url": "https://www.dreamworkhq.com/job/ca7dbdbe-b376-4452-8bd3-2495229bb559?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "c96c2340-91ec-4cbc-9be8-fcefa575a182",
@@ -2630,21 +2990,6 @@
       "url": "https://www.dreamworkhq.com/job/7911070e-2a1f-4ec9-bd75-95800e8bf52d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "202f8933-ba1a-4b0a-a55d-a03e2c903519",
-      "title": "Python/Typescript Engineer",
-      "company": "Turing",
-      "companyDomain": "turing.com",
-      "location": "Chicago, Illinois, United States",
-      "remoteType": "remote",
-      "salaryMin": 353600,
-      "salaryMax": 416000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-22T23:41:15.000Z",
-      "firstIndexedAt": "2026-10-23T02:34:42.472Z",
-      "url": "https://www.dreamworkhq.com/job/202f8933-ba1a-4b0a-a55d-a03e2c903519?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "2e03fe48-489a-4da4-b472-0f8c5102c229",
       "title": "Python/Typescript Engineer",
       "company": "Turing",
@@ -2658,6 +3003,21 @@
       "postedAt": "2026-10-22T23:48:37.000Z",
       "firstIndexedAt": "2026-10-23T02:34:42.472Z",
       "url": "https://www.dreamworkhq.com/job/2e03fe48-489a-4da4-b472-0f8c5102c229?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "202f8933-ba1a-4b0a-a55d-a03e2c903519",
+      "title": "Python/Typescript Engineer",
+      "company": "Turing",
+      "companyDomain": "turing.com",
+      "location": "Chicago, Illinois, United States",
+      "remoteType": "remote",
+      "salaryMin": 353600,
+      "salaryMax": 416000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-22T23:41:15.000Z",
+      "firstIndexedAt": "2026-10-23T02:34:42.472Z",
+      "url": "https://www.dreamworkhq.com/job/202f8933-ba1a-4b0a-a55d-a03e2c903519?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "370f80bb-be5c-4975-a73f-038b992f68ea",
@@ -2808,21 +3168,6 @@
       "postedAt": "2026-10-22T12:32:28.000Z",
       "firstIndexedAt": "2026-10-23T02:32:09.616Z",
       "url": "https://www.dreamworkhq.com/job/eda3b69c-2047-4792-8a9a-edd92955a2ec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "83880d95-5de5-4480-bab7-b2df034ae108",
-      "title": "Senior Core Infrastructure Engineer - React and Database Development",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "BENGALURU, KARNATAKA, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T10:55:41.000Z",
-      "firstIndexedAt": "2026-10-23T02:32:06.013Z",
-      "url": "https://www.dreamworkhq.com/job/83880d95-5de5-4480-bab7-b2df034ae108?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "10f391df-e689-43c5-81f0-c776830a72be",
@@ -3045,7 +3390,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T17:46:09.135Z",
+      "postedAt": "2026-10-22T18:00:32.057Z",
       "firstIndexedAt": "2026-10-23T00:28:58.995Z",
       "url": "https://www.dreamworkhq.com/job/bbb0b520-094f-4337-bca6-041a72d8ce14?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3110,21 +3455,6 @@
       "url": "https://www.dreamworkhq.com/job/fb6d3e0a-3154-4681-87d5-e1c3cf06bba4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "2158117c-2819-4d61-bfc1-08b5237b7364",
-      "title": ".Net Developer (React)",
-      "company": "Adentis",
-      "companyDomain": "adentis.pt",
-      "location": "Lisboa",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T14:54:50.000Z",
-      "firstIndexedAt": "2026-10-22T21:45:34.705Z",
-      "url": "https://www.dreamworkhq.com/job/2158117c-2819-4d61-bfc1-08b5237b7364?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "8ce828df-b6a7-4fcd-8f04-bcc2f4b05779",
       "title": "Fullstack Developer (Java/React)",
       "company": "Dellent",
@@ -3138,6 +3468,21 @@
       "postedAt": "2026-10-22T14:55:53.000Z",
       "firstIndexedAt": "2026-10-22T21:45:34.705Z",
       "url": "https://www.dreamworkhq.com/job/8ce828df-b6a7-4fcd-8f04-bcc2f4b05779?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "a5ef4d2d-85ec-44e4-b34c-5ad29353d5dd",
+      "title": "Senior Frontend Developer (React)",
+      "company": "Integer Consulting",
+      "companyDomain": "integerconsulting.pt",
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-22T18:00:12.000Z",
+      "firstIndexedAt": "2026-10-22T21:45:34.705Z",
+      "url": "https://www.dreamworkhq.com/job/a5ef4d2d-85ec-44e4-b34c-5ad29353d5dd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "9278185c-e682-4d26-ac9a-360e2891babb",
@@ -3155,19 +3500,19 @@
       "url": "https://www.dreamworkhq.com/job/9278185c-e682-4d26-ac9a-360e2891babb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "a5ef4d2d-85ec-44e4-b34c-5ad29353d5dd",
-      "title": "Senior Frontend Developer (React)",
-      "company": "Integer Consulting",
-      "companyDomain": "integerconsulting.pt",
+      "id": "2158117c-2819-4d61-bfc1-08b5237b7364",
+      "title": ".Net Developer (React)",
+      "company": "Adentis",
+      "companyDomain": "adentis.pt",
       "location": "Lisboa",
-      "remoteType": "hybrid",
+      "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T18:00:12.000Z",
+      "postedAt": "2026-10-22T14:54:50.000Z",
       "firstIndexedAt": "2026-10-22T21:45:34.705Z",
-      "url": "https://www.dreamworkhq.com/job/a5ef4d2d-85ec-44e4-b34c-5ad29353d5dd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/2158117c-2819-4d61-bfc1-08b5237b7364?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "fc76cf39-8dd7-4427-9be6-d2aaa6eac5d2",
@@ -3240,7 +3585,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T18:15:33.932Z",
+      "postedAt": "2026-10-22T18:30:29.858Z",
       "firstIndexedAt": "2026-10-22T18:37:12.421Z",
       "url": "https://www.dreamworkhq.com/job/dd9641f1-4c98-48a4-9aab-9c18a202e827?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3255,7 +3600,7 @@
       "salaryMax": 181100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T15:33:26.332Z",
+      "postedAt": "2026-10-23T06:04:12.095Z",
       "firstIndexedAt": "2026-10-22T18:33:09.758Z",
       "url": "https://www.dreamworkhq.com/job/83e4091d-95e5-4c7a-b1f5-485d05083a86?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3345,24 +3690,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T00:00:00.000Z",
+      "postedAt": "2026-10-26T00:00:00.000Z",
       "firstIndexedAt": "2026-10-22T17:17:14.612Z",
       "url": "https://www.dreamworkhq.com/job/b5a5d38a-5c03-4136-9a84-07dbf4a59371?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "0ea331f9-e6be-4dbb-8019-e9081042bc43",
-      "title": "Urgente/ Programador Web con experiencia en React, C# .NET MVC y SQL Server/ Proyecto",
-      "company": "TOURING Y AUTOMOVIL CLUB DEL PERU",
-      "companyDomain": "touringperu.org.pe",
-      "location": "Lima, Lince, Peru",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-22T17:03:05.551Z",
-      "url": "https://www.dreamworkhq.com/job/0ea331f9-e6be-4dbb-8019-e9081042bc43?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "bba44ada-1e27-47a4-9f88-029624621fdb",
@@ -3382,8 +3712,8 @@
     {
       "id": "f5234d11-9fc3-47a7-8ba4-9d34a0a976df",
       "title": "Desarrollador Full Stack Golang (Go) / React, Node.js",
-      "company": "Valtx",
-      "companyDomain": null,
+      "company": "Computrabajo Perú",
+      "companyDomain": "valtx.com",
       "location": "Lima, Miraflores, Peru",
       "remoteType": "hybrid",
       "salaryMin": null,
@@ -3393,6 +3723,21 @@
       "postedAt": "2026-10-22T00:00:00.000Z",
       "firstIndexedAt": "2026-10-22T17:03:05.551Z",
       "url": "https://www.dreamworkhq.com/job/f5234d11-9fc3-47a7-8ba4-9d34a0a976df?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "0ea331f9-e6be-4dbb-8019-e9081042bc43",
+      "title": "Urgente/ Programador Web con experiencia en React, C# .NET MVC y SQL Server/ Proyecto",
+      "company": "TOURING Y AUTOMOVIL CLUB DEL PERU",
+      "companyDomain": "touringperu.org.pe",
+      "location": "Lima, Lince, Peru",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-22T17:03:05.551Z",
+      "url": "https://www.dreamworkhq.com/job/0ea331f9-e6be-4dbb-8019-e9081042bc43?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "e2fe4001-99bd-401f-864f-c94406fe6be4",
@@ -3425,7 +3770,7 @@
       "url": "https://www.dreamworkhq.com/job/6c86007e-5aaf-4659-a14b-e99eac9ebd67?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "20b1dd4e-8a14-4d2d-8257-957e1b49a4b0",
+      "id": "f72230bf-159b-4ec5-92dd-63b995b2a464",
       "title": "Application Front end Lead",
       "company": "HEXAWARE",
       "companyDomain": "hexaware.com",
@@ -3435,24 +3780,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T05:13:30.000Z",
+      "postedAt": "2026-10-22T05:15:45.000Z",
       "firstIndexedAt": "2026-10-22T17:01:05.680Z",
-      "url": "https://www.dreamworkhq.com/job/20b1dd4e-8a14-4d2d-8257-957e1b49a4b0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "260cfa72-7cae-4bd2-9b9c-3a13b3fb05b6",
-      "title": "Full Stack Developer .NET & React",
-      "company": "Ampers",
-      "companyDomain": "ampers.pt",
-      "location": "Lisboa",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-22T16:47:35.665Z",
-      "url": "https://www.dreamworkhq.com/job/260cfa72-7cae-4bd2-9b9c-3a13b3fb05b6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/f72230bf-159b-4ec5-92dd-63b995b2a464?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "3b6440e9-002a-4f00-a4f3-b8d1f51d9c4a",
@@ -3468,6 +3798,21 @@
       "postedAt": "2026-10-20T00:00:00.000Z",
       "firstIndexedAt": "2026-10-22T16:47:35.665Z",
       "url": "https://www.dreamworkhq.com/job/3b6440e9-002a-4f00-a4f3-b8d1f51d9c4a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "260cfa72-7cae-4bd2-9b9c-3a13b3fb05b6",
+      "title": "Full Stack Developer .NET & React",
+      "company": "Ampers",
+      "companyDomain": "ampers.pt",
+      "location": "Lisboa",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-22T16:47:35.665Z",
+      "url": "https://www.dreamworkhq.com/job/260cfa72-7cae-4bd2-9b9c-3a13b3fb05b6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "a355b3ac-6be6-4ff5-9a5f-a2401c6c95ec",
@@ -3495,7 +3840,7 @@
       "salaryMax": 55000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T08:47:09.474Z",
+      "postedAt": "2026-10-21T09:02:24.357Z",
       "firstIndexedAt": "2026-10-22T16:28:38.709Z",
       "url": "https://www.dreamworkhq.com/job/130c06e3-7cb2-4429-b219-b8b1470aadf8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3525,7 +3870,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T15:04:21.755Z",
+      "postedAt": "2026-10-22T13:19:44.984Z",
       "firstIndexedAt": "2026-10-22T15:31:57.705Z",
       "url": "https://www.dreamworkhq.com/job/d47be159-7c25-412a-a258-250ef967c9a3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3545,21 +3890,6 @@
       "url": "https://www.dreamworkhq.com/job/d654eadb-a31f-4a18-aa5a-0fad78329ed7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "67a84eb1-b7a6-4d6a-97eb-a7c0cc6156c1",
-      "title": "Desarrollador/a Java y React Senior",
-      "company": "Baoss",
-      "companyDomain": "baoss.com",
-      "location": "Sevilla, Sevilla",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-22T14:47:40.050Z",
-      "url": "https://www.dreamworkhq.com/job/67a84eb1-b7a6-4d6a-97eb-a7c0cc6156c1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "78037f46-7511-408a-ace5-01c9f6b46b05",
       "title": "Senior Software Developer - Java / React",
       "company": "Serem",
@@ -3570,9 +3900,24 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T00:00:00.000Z",
+      "postedAt": "2026-10-25T00:00:00.000Z",
       "firstIndexedAt": "2026-10-22T14:47:40.050Z",
       "url": "https://www.dreamworkhq.com/job/78037f46-7511-408a-ace5-01c9f6b46b05?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "67a84eb1-b7a6-4d6a-97eb-a7c0cc6156c1",
+      "title": "Desarrollador/a Java y React Senior",
+      "company": "Baoss",
+      "companyDomain": "baoss.com",
+      "location": "Sevilla, Sevilla",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-22T14:47:40.050Z",
+      "url": "https://www.dreamworkhq.com/job/67a84eb1-b7a6-4d6a-97eb-a7c0cc6156c1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "dbaae442-52d2-4d3a-a01f-914835f2a898",
@@ -3605,21 +3950,6 @@
       "url": "https://www.dreamworkhq.com/job/ecc47057-002f-4ba6-a68f-8c563e7dbfb6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "4932ff26-45b9-4998-9c9e-d159be4d041a",
-      "title": "Senior ASIC Research Engineer – Front-end Digital Design",
-      "company": "Externalusccareers",
-      "companyDomain": "marshall.usc.edu",
-      "location": "Arlington, VA",
-      "remoteType": "onsite",
-      "salaryMin": 140000,
-      "salaryMax": 170000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T07:15:49.295Z",
-      "firstIndexedAt": "2026-10-22T14:04:10.479Z",
-      "url": "https://www.dreamworkhq.com/job/4932ff26-45b9-4998-9c9e-d159be4d041a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "ebb9fb31-a0c7-4e99-906c-84ec7648d29c",
       "title": "ASIC Research Engineer- Front-End Digital Design",
       "company": "Externalusccareers",
@@ -3630,9 +3960,24 @@
       "salaryMax": 140000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T07:15:49.394Z",
+      "postedAt": "2026-10-21T07:31:03.032Z",
       "firstIndexedAt": "2026-10-22T14:04:10.479Z",
       "url": "https://www.dreamworkhq.com/job/ebb9fb31-a0c7-4e99-906c-84ec7648d29c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "4932ff26-45b9-4998-9c9e-d159be4d041a",
+      "title": "Senior ASIC Research Engineer – Front-end Digital Design",
+      "company": "Externalusccareers",
+      "companyDomain": "marshall.usc.edu",
+      "location": "Arlington, VA",
+      "remoteType": "onsite",
+      "salaryMin": 140000,
+      "salaryMax": 170000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-21T07:31:03.177Z",
+      "firstIndexedAt": "2026-10-22T14:04:10.479Z",
+      "url": "https://www.dreamworkhq.com/job/4932ff26-45b9-4998-9c9e-d159be4d041a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "533a8aa2-c710-4c17-b91a-c4324829e68e",
@@ -3663,6 +4008,21 @@
       "postedAt": "2026-10-22T16:46:43.383Z",
       "firstIndexedAt": "2026-10-22T13:52:57.084Z",
       "url": "https://www.dreamworkhq.com/job/3abfbfbc-ed6f-4d1b-b81e-0fd587e91b4f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "22683641-0d4c-4c75-af6c-e7c5059fc649",
+      "title": "Senior Core Infrastructure Engineer - React and Database Development",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "BENGALURU, KARNATAKA, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-26T09:12:59.000Z",
+      "firstIndexedAt": "2026-10-22T13:48:21.912Z",
+      "url": "https://www.dreamworkhq.com/job/22683641-0d4c-4c75-af6c-e7c5059fc649?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "29ff5aff-6cf8-4120-9965-744fb07d7eb5",
@@ -3755,21 +4115,6 @@
       "url": "https://www.dreamworkhq.com/job/cd8dae3a-ddc5-443f-879d-ce9eacbbc0c2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "b2b28756-cf8f-475a-8aea-b384f9e0a71e",
-      "title": "Full Stack Engineer (Go and React)",
-      "company": "Miratech",
-      "companyDomain": "miratechgroup.com",
-      "location": "All Cities, , India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T10:11:05.632Z",
-      "firstIndexedAt": "2026-10-22T11:45:49.811Z",
-      "url": "https://www.dreamworkhq.com/job/b2b28756-cf8f-475a-8aea-b384f9e0a71e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "216d35a0-36d5-4225-bd84-d5c3180dacf4",
       "title": "Full Stack Engineer (Go and React)",
       "company": "Miratech",
@@ -3783,6 +4128,21 @@
       "postedAt": "2026-10-22T10:06:33.109Z",
       "firstIndexedAt": "2026-10-22T11:45:49.811Z",
       "url": "https://www.dreamworkhq.com/job/216d35a0-36d5-4225-bd84-d5c3180dacf4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "5d124175-d411-4cb9-9b9f-fdf16cda82f8",
+      "title": "Full Stack Engineer (Go and React)",
+      "company": "Miratech",
+      "companyDomain": "miratechgroup.com",
+      "location": "All Cities, , India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-22T10:09:27.171Z",
+      "firstIndexedAt": "2026-10-22T11:45:49.811Z",
+      "url": "https://www.dreamworkhq.com/job/5d124175-d411-4cb9-9b9f-fdf16cda82f8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "4ab5860e-882d-44ff-bbf3-228c756a634e",
@@ -3900,7 +4260,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-10-25T01:00:27.865Z",
+      "postedAt": "2024-10-26T01:15:22.240Z",
       "firstIndexedAt": "2026-10-22T06:45:17.563Z",
       "url": "https://www.dreamworkhq.com/job/044dd0a6-7dee-4ec9-bd6f-aa0529293323?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3915,7 +4275,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T22:18:10.646Z",
+      "postedAt": "2026-10-21T16:45:44.610Z",
       "firstIndexedAt": "2026-10-22T06:03:47.916Z",
       "url": "https://www.dreamworkhq.com/job/b31966b5-3420-4437-9ba6-1e2aa794e3f6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -3980,21 +4340,6 @@
       "url": "https://www.dreamworkhq.com/job/be93a6f2-f817-442d-9d87-d4df86353751?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "46fcc9a4-d906-4ca7-a8c4-d0ed193dd7ad",
-      "title": "Desarrollador Frontend Cells",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Bogotá, D.C., Bogotá, D.C., Colombia",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-22T04:17:48.030Z",
-      "url": "https://www.dreamworkhq.com/job/46fcc9a4-d906-4ca7-a8c4-d0ed193dd7ad?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "e713de5f-158a-475c-a5f2-a9f724712e1a",
       "title": "Desarrollador Frontend Glomo Cells",
       "company": "Accenture",
@@ -4008,6 +4353,21 @@
       "postedAt": "2026-10-21T00:00:00.000Z",
       "firstIndexedAt": "2026-10-22T04:17:48.030Z",
       "url": "https://www.dreamworkhq.com/job/e713de5f-158a-475c-a5f2-a9f724712e1a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "46fcc9a4-d906-4ca7-a8c4-d0ed193dd7ad",
+      "title": "Desarrollador Frontend Cells",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Bogotá, D.C., Bogotá, D.C., Colombia",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-22T04:17:48.030Z",
+      "url": "https://www.dreamworkhq.com/job/46fcc9a4-d906-4ca7-a8c4-d0ed193dd7ad?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "5cad8bb1-f5cc-4d4b-b46a-ce296788d8d4",
@@ -4535,7 +4895,7 @@
       "url": "https://www.dreamworkhq.com/job/a692c1c4-d7e4-4e6b-bf0e-bfe04b3fdb8e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "b9acff5f-968f-4e14-b294-50c291c8e68b",
+      "id": "925f4174-92d9-4e3f-83f7-d8d8c62465bd",
       "title": "Senior Frontend Engineer - Marketing (all genders)",
       "company": "ABOUT YOU",
       "companyDomain": "aboutyou.com",
@@ -4545,9 +4905,9 @@
       "salaryMax": 96000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T07:10:25.928Z",
+      "postedAt": "2026-10-21T07:32:07.397Z",
       "firstIndexedAt": "2026-10-21T22:15:32.776Z",
-      "url": "https://www.dreamworkhq.com/job/b9acff5f-968f-4e14-b294-50c291c8e68b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/925f4174-92d9-4e3f-83f7-d8d8c62465bd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "cdf33107-1ca3-45c8-a0e4-051d8cf0b560",
@@ -4575,7 +4935,7 @@
       "salaryMax": 64000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T18:00:22.569Z",
+      "postedAt": "2026-10-20T18:15:40.046Z",
       "firstIndexedAt": "2026-10-21T19:29:43.634Z",
       "url": "https://www.dreamworkhq.com/job/34ea9ca5-cbff-43bd-8ff4-a217c318607f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -4620,7 +4980,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T03:02:29.909Z",
+      "postedAt": "2026-10-21T11:32:48.200Z",
       "firstIndexedAt": "2026-10-21T17:42:30.365Z",
       "url": "https://www.dreamworkhq.com/job/0b2abb2d-2854-416e-bde0-526e41da2526?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -4635,7 +4995,7 @@
       "salaryMax": 125000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T02:52:09.688Z",
+      "postedAt": "2026-10-22T03:04:11.472Z",
       "firstIndexedAt": "2026-10-21T16:55:29.553Z",
       "url": "https://www.dreamworkhq.com/job/5c081e9b-5f41-406f-83c4-da062b38b530?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -4685,21 +5045,6 @@
       "url": "https://www.dreamworkhq.com/job/6ad5c1ec-10f4-43ef-8eb1-13f1d5db83b1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "6fbd939d-f656-4bfb-9c2e-bfb53bc394ff",
-      "title": "Senior Frontend Engineer (React)",
-      "company": "Luminorbank",
-      "companyDomain": "luminor.com",
-      "location": "Tallinn, EE",
-      "remoteType": "hybrid",
-      "salaryMin": 61000,
-      "salaryMax": 87000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T10:23:22.000Z",
-      "firstIndexedAt": "2026-10-21T15:01:12.175Z",
-      "url": "https://www.dreamworkhq.com/job/6fbd939d-f656-4bfb-9c2e-bfb53bc394ff?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "2ce97067-ab86-43f3-96bb-30a9635b34d1",
       "title": "Senior Frontend Engineer (React)",
       "company": "Luminorbank",
@@ -4713,6 +5058,21 @@
       "postedAt": "2026-10-21T10:44:16.000Z",
       "firstIndexedAt": "2026-10-21T15:01:12.175Z",
       "url": "https://www.dreamworkhq.com/job/2ce97067-ab86-43f3-96bb-30a9635b34d1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "6fbd939d-f656-4bfb-9c2e-bfb53bc394ff",
+      "title": "Senior Frontend Engineer (React)",
+      "company": "Luminorbank",
+      "companyDomain": "luminor.com",
+      "location": "Tallinn, EE",
+      "remoteType": "hybrid",
+      "salaryMin": 61000,
+      "salaryMax": 87000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-21T10:23:22.000Z",
+      "firstIndexedAt": "2026-10-21T15:01:12.175Z",
+      "url": "https://www.dreamworkhq.com/job/6fbd939d-f656-4bfb-9c2e-bfb53bc394ff?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "069ad38b-dbd9-4b2e-929d-af6254b4e334",
@@ -4805,6 +5165,21 @@
       "url": "https://www.dreamworkhq.com/job/f60e0710-8871-42a7-87b6-a855bf50c167?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "6819b330-e1c6-4102-9f79-fbd2e9aeb97e",
+      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
+      "company": "Mozilla",
+      "companyDomain": "mozilla.org",
+      "location": "Remote Germany",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-20T14:30:03.000Z",
+      "firstIndexedAt": "2026-10-21T13:15:41.683Z",
+      "url": "https://www.dreamworkhq.com/job/6819b330-e1c6-4102-9f79-fbd2e9aeb97e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "a1315645-7ed0-473e-9793-8d4337de74b8",
       "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
       "company": "Mozilla",
@@ -4833,21 +5208,6 @@
       "postedAt": "2026-10-20T14:30:06.000Z",
       "firstIndexedAt": "2026-10-21T13:15:41.683Z",
       "url": "https://www.dreamworkhq.com/job/7b3f7bcd-7533-4757-88f6-5ca49da4e9cc?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "6819b330-e1c6-4102-9f79-fbd2e9aeb97e",
-      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-      "company": "Mozilla",
-      "companyDomain": "mozilla.org",
-      "location": "Remote Germany",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T14:30:03.000Z",
-      "firstIndexedAt": "2026-10-21T13:15:41.683Z",
-      "url": "https://www.dreamworkhq.com/job/6819b330-e1c6-4102-9f79-fbd2e9aeb97e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "1dc482ef-e8bf-416d-8799-a8335ed1d028",
@@ -5030,7 +5390,7 @@
       "url": "https://www.dreamworkhq.com/job/e677fc31-47f4-4839-a949-f9e466cce416?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "4d9f4f04-3327-467f-a525-12fff05b728a",
+      "id": "4ed3ece9-6407-40cf-b9c0-6e35421c6997",
       "title": "Senior React Native Developer",
       "company": "Encora",
       "companyDomain": "encora.com",
@@ -5040,9 +5400,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T22:10:22.000Z",
+      "postedAt": "2026-10-20T22:23:19.000Z",
       "firstIndexedAt": "2026-10-21T08:45:48.565Z",
-      "url": "https://www.dreamworkhq.com/job/4d9f4f04-3327-467f-a525-12fff05b728a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/4ed3ece9-6407-40cf-b9c0-6e35421c6997?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "55887ed2-96de-4217-9743-26a79dacf39d",
@@ -5058,21 +5418,6 @@
       "postedAt": "2026-10-20T16:37:32.000Z",
       "firstIndexedAt": "2026-10-21T08:45:32.968Z",
       "url": "https://www.dreamworkhq.com/job/55887ed2-96de-4217-9743-26a79dacf39d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "545eeec5-1d4f-4807-bab0-565b333aae6b",
-      "title": "Senior Full Stack Software Engineer (f/m/d) – AI, React, Node.js & TypeScript",
-      "company": "Bertelsmann-Jobs",
-      "companyDomain": "bertelsmann.com",
-      "location": "Berlin, Berlin, Germany",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T07:42:12.654Z",
-      "firstIndexedAt": "2026-10-21T08:01:09.649Z",
-      "url": "https://www.dreamworkhq.com/job/545eeec5-1d4f-4807-bab0-565b333aae6b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "9364b7d7-f193-429c-b22f-b2427e9908cc",
@@ -5165,21 +5510,6 @@
       "url": "https://www.dreamworkhq.com/job/8ecd8f0b-9fc3-4ff2-afae-6c613e294df1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "4f2e4c50-068b-4e0f-a34e-07091099f93a",
-      "title": "Lead Software Engineer - Java Full Stack, React",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Bengaluru, Karnataka, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T05:21:32.000Z",
-      "firstIndexedAt": "2026-10-21T06:19:01.534Z",
-      "url": "https://www.dreamworkhq.com/job/4f2e4c50-068b-4e0f-a34e-07091099f93a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "3b08372d-90f6-459a-8dff-06651e2d64e0",
       "title": "Senior Frontend Engineer",
       "company": "Qualysoft",
@@ -5193,21 +5523,6 @@
       "postedAt": "2026-10-20T13:39:36.002Z",
       "firstIndexedAt": "2026-10-21T05:00:30.100Z",
       "url": "https://www.dreamworkhq.com/job/3b08372d-90f6-459a-8dff-06651e2d64e0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "09f94fa9-ed68-46dc-bb03-db86b0c7f8ac",
-      "title": "Desarrollador Front End",
-      "company": "Stefanini Latam",
-      "companyDomain": "stefanini.com.br",
-      "location": "San Salvador, El Salvador, El Salvador",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T20:11:46.007Z",
-      "firstIndexedAt": "2026-10-21T03:31:37.982Z",
-      "url": "https://www.dreamworkhq.com/job/09f94fa9-ed68-46dc-bb03-db86b0c7f8ac?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "c9233cde-9f3a-4770-bb05-2a2a8ccbe0e3",
@@ -5225,6 +5540,21 @@
       "url": "https://www.dreamworkhq.com/job/c9233cde-9f3a-4770-bb05-2a2a8ccbe0e3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "09f94fa9-ed68-46dc-bb03-db86b0c7f8ac",
+      "title": "Desarrollador Front End",
+      "company": "Stefanini Latam",
+      "companyDomain": "stefanini.com.br",
+      "location": "San Salvador, El Salvador, El Salvador",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-20T20:11:46.007Z",
+      "firstIndexedAt": "2026-10-21T03:31:37.982Z",
+      "url": "https://www.dreamworkhq.com/job/09f94fa9-ed68-46dc-bb03-db86b0c7f8ac?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "24a68c65-64f2-405d-aaa3-fb86ede68014",
       "title": "Senior Software Engineer (Frontend)",
       "company": "Wonder",
@@ -5235,24 +5565,9 @@
       "salaryMax": 183500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T01:25:19.546Z",
+      "postedAt": "2026-10-22T01:34:42.586Z",
       "firstIndexedAt": "2026-10-21T03:31:09.246Z",
       "url": "https://www.dreamworkhq.com/job/24a68c65-64f2-405d-aaa3-fb86ede68014?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "8251673d-a415-49ad-8f6b-5ee4ffcd3cec",
-      "title": "Software Engineer, Frontend/Web App",
-      "company": "Beaconai",
-      "companyDomain": "beaconai.com",
-      "location": "San Carlos - Hybrid",
-      "remoteType": "hybrid",
-      "salaryMin": 135000,
-      "salaryMax": 168000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T22:17:55.848Z",
-      "firstIndexedAt": "2026-10-21T02:45:12.248Z",
-      "url": "https://www.dreamworkhq.com/job/8251673d-a415-49ad-8f6b-5ee4ffcd3cec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "323ea82d-dc08-42ef-b98d-88b3d7fd32a2",
@@ -5283,6 +5598,21 @@
       "postedAt": "2026-10-19T22:16:55.608Z",
       "firstIndexedAt": "2026-10-21T02:45:12.248Z",
       "url": "https://www.dreamworkhq.com/job/f78d77ea-f935-4669-9779-1218ff594eb8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "8251673d-a415-49ad-8f6b-5ee4ffcd3cec",
+      "title": "Software Engineer, Frontend/Web App",
+      "company": "Beaconai",
+      "companyDomain": "beaconai.com",
+      "location": "San Carlos - Hybrid",
+      "remoteType": "hybrid",
+      "salaryMin": 135000,
+      "salaryMax": 168000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-19T22:17:55.848Z",
+      "firstIndexedAt": "2026-10-21T02:45:12.248Z",
+      "url": "https://www.dreamworkhq.com/job/8251673d-a415-49ad-8f6b-5ee4ffcd3cec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "d7dd1dd3-4562-4ca6-bb37-cf82c627d0d5",
@@ -5720,21 +6050,6 @@
       "url": "https://www.dreamworkhq.com/job/1619b3fa-a6ff-48a2-aa83-8a2e110af4e6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "1afcf0fe-592e-4c88-9d29-172d8636244c",
-      "title": "Senior React Developer (Híbrido Madrid)",
-      "company": "knowmad mood",
-      "companyDomain": "knowmad.com",
-      "location": "Madrid, España, Spain",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T12:46:05.000Z",
-      "firstIndexedAt": "2026-10-21T00:00:36.683Z",
-      "url": "https://www.dreamworkhq.com/job/1afcf0fe-592e-4c88-9d29-172d8636244c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "4adc9244-3721-4967-b1c6-29f0bb39bb3a",
       "title": "Senior React Developer (Híbrido Palma de Mallorca)",
       "company": "knowmad mood",
@@ -5748,6 +6063,21 @@
       "postedAt": "2026-10-20T12:52:36.000Z",
       "firstIndexedAt": "2026-10-21T00:00:36.683Z",
       "url": "https://www.dreamworkhq.com/job/4adc9244-3721-4967-b1c6-29f0bb39bb3a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "1afcf0fe-592e-4c88-9d29-172d8636244c",
+      "title": "Senior React Developer (Híbrido Madrid)",
+      "company": "knowmad mood",
+      "companyDomain": "knowmad.com",
+      "location": "Madrid, España, Spain",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-20T12:46:05.000Z",
+      "firstIndexedAt": "2026-10-21T00:00:36.683Z",
+      "url": "https://www.dreamworkhq.com/job/1afcf0fe-592e-4c88-9d29-172d8636244c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "d53cbace-e742-4291-b9a8-e283a7cc1209",
@@ -5835,7 +6165,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T00:00:00.000Z",
+      "postedAt": "2026-10-26T00:00:00.000Z",
       "firstIndexedAt": "2026-10-20T22:17:17.898Z",
       "url": "https://www.dreamworkhq.com/job/b6c06f63-948f-43de-b057-9b459cc2d19e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -5900,7 +6230,7 @@
       "url": "https://www.dreamworkhq.com/job/1b2b537f-2a74-4a55-ac85-097f0db85bb2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "08de20d1-e6a8-4ccf-a5ae-ec76c7293047",
+      "id": "20414fd3-ba2b-4947-ac30-08901ba62011",
       "title": "Fullstack Developer (Python/ React)",
       "company": "Coderoad",
       "companyDomain": "coderoad.com",
@@ -5910,9 +6240,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T20:47:57.000Z",
+      "postedAt": "2026-10-19T20:55:05.000Z",
       "firstIndexedAt": "2026-10-20T20:15:32.264Z",
-      "url": "https://www.dreamworkhq.com/job/08de20d1-e6a8-4ccf-a5ae-ec76c7293047?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/20414fd3-ba2b-4947-ac30-08901ba62011?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "0d9b67c7-eb7c-43f3-a8cf-791dbab24ee6",
@@ -6080,21 +6410,6 @@
       "url": "https://www.dreamworkhq.com/job/b9a192a2-e1ce-4871-a4cc-c521b958ea7e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "da6c7963-055a-4897-bf95-a280335394ec",
-      "title": "Sportsbook - Frontend Engineering Team Lead",
-      "company": "Betsson",
-      "companyDomain": "betsson.com",
-      "location": "Malta",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T11:21:27.000Z",
-      "firstIndexedAt": "2026-10-20T15:30:55.362Z",
-      "url": "https://www.dreamworkhq.com/job/da6c7963-055a-4897-bf95-a280335394ec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "587256f6-a0dc-4827-b011-252b7c330334",
       "title": "Sportsbook - Frontend Engineering Team Lead",
       "company": "Betsson",
@@ -6110,6 +6425,21 @@
       "url": "https://www.dreamworkhq.com/job/587256f6-a0dc-4827-b011-252b7c330334?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "da6c7963-055a-4897-bf95-a280335394ec",
+      "title": "Sportsbook - Frontend Engineering Team Lead",
+      "company": "Betsson",
+      "companyDomain": "betsson.com",
+      "location": "Malta",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-20T11:21:27.000Z",
+      "firstIndexedAt": "2026-10-20T15:30:55.362Z",
+      "url": "https://www.dreamworkhq.com/job/da6c7963-055a-4897-bf95-a280335394ec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "2d69f080-2522-4418-8d1a-360ae95d2512",
       "title": "STAGE Ingénieur - Front End RF Radar (F/H)",
       "company": "Thales",
@@ -6120,7 +6450,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T19:36:04.636Z",
+      "postedAt": "2026-10-20T17:04:36.349Z",
       "firstIndexedAt": "2026-10-20T15:09:02.552Z",
       "url": "https://www.dreamworkhq.com/job/2d69f080-2522-4418-8d1a-360ae95d2512?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -6165,7 +6495,7 @@
       "salaryMax": 155700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T16:02:50.012Z",
+      "postedAt": "2026-10-19T16:16:17.457Z",
       "firstIndexedAt": "2026-10-20T12:21:11.470Z",
       "url": "https://www.dreamworkhq.com/job/b7ad332c-a286-4db3-8948-6723fadbbc12?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -6195,7 +6525,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T10:45:27.281Z",
+      "postedAt": "2026-10-20T11:00:27.836Z",
       "firstIndexedAt": "2026-10-20T10:21:18.871Z",
       "url": "https://www.dreamworkhq.com/job/f3d0876f-523c-4e92-a2c8-ad64c2884329?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -6380,21 +6710,6 @@
       "url": "https://www.dreamworkhq.com/job/41abb910-ffd0-46d5-bc4c-4240618c8fd0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "47c2835e-2b11-468e-a980-f7b2bc6ee8b3",
-      "title": "Senior Frontend-Entwickler (m/w/d) – mit technischer Beratungskompetenz",
-      "company": "Rheinschafe",
-      "companyDomain": "rheinschafe.de",
-      "location": "Rheinschafe GmbH",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T14:58:30.000Z",
-      "firstIndexedAt": "2026-10-20T02:32:52.695Z",
-      "url": "https://www.dreamworkhq.com/job/47c2835e-2b11-468e-a980-f7b2bc6ee8b3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "e2fcbd46-7768-4af1-9ff2-e68bf2fd4de7",
       "title": "Remote Python/Typescript Engineer",
       "company": "Turing",
@@ -6530,51 +6845,6 @@
       "url": "https://www.dreamworkhq.com/job/4a3fbda9-b77f-47cb-addf-e4a068871c60?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "9bdcb2cb-9d8d-4fed-bd06-e543c8773d9f",
-      "title": "Full-Stack Engineer (React Heavy + Java)",
-      "company": "Wissen Technology",
-      "companyDomain": "wissen.com",
-      "location": "Telangana, 500016, India",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T08:18:26.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:57.719Z",
-      "url": "https://www.dreamworkhq.com/job/9bdcb2cb-9d8d-4fed-bd06-e543c8773d9f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "463d9b4f-54b5-4c7e-a1fc-db8852bd63c3",
-      "title": "Software Development Engineer I (Frontend)",
-      "company": "Rentomojo",
-      "companyDomain": "rentomojo.com",
-      "location": "Bengaluru, Karnataka, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T16:58:13.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:57.719Z",
-      "url": "https://www.dreamworkhq.com/job/463d9b4f-54b5-4c7e-a1fc-db8852bd63c3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "3dd4ace5-b776-4be0-be64-e08de6b4be80",
-      "title": "Remote JavaScript Developer",
-      "company": "Turing",
-      "companyDomain": "turing.com",
-      "location": "Toronto, Ontario, M2P Canada",
-      "remoteType": "remote",
-      "salaryMin": 292000,
-      "salaryMax": 439000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-19T13:05:33.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:56.280Z",
-      "url": "https://www.dreamworkhq.com/job/3dd4ace5-b776-4be0-be64-e08de6b4be80?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "f9e8674c-efc7-44bf-b377-362703787aa1",
       "title": "Remote Software Engineer - Python/Typescript",
       "company": "Turing",
@@ -6603,21 +6873,6 @@
       "postedAt": "2026-10-19T17:59:40.000Z",
       "firstIndexedAt": "2026-10-20T02:31:50.015Z",
       "url": "https://www.dreamworkhq.com/job/06960080-197a-4b80-b16f-dbd8352148ca?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "41a189d3-f781-4a71-8692-a18b9bdd262d",
-      "title": "Frontend-First Fullstack Intern",
-      "company": "GreedyGame",
-      "companyDomain": "greedygame.com",
-      "location": "Bangalore, Karnataka, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T15:28:44.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:48.436Z",
-      "url": "https://www.dreamworkhq.com/job/41a189d3-f781-4a71-8692-a18b9bdd262d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "b1f2d59e-97e4-47a0-93ef-2cf9b61d1a20",
@@ -6665,21 +6920,6 @@
       "url": "https://www.dreamworkhq.com/job/a03b4586-e2c7-4222-8602-17da1fffc506?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "b4cab3a7-1f09-42f1-9171-e882ba2fa5af",
-      "title": "Remote Typescript Engineer",
-      "company": "Turing",
-      "companyDomain": "turing.com",
-      "location": "Toronto, Ontario, Canada",
-      "remoteType": "remote",
-      "salaryMin": 249000,
-      "salaryMax": 292000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-19T21:17:10.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:12.731Z",
-      "url": "https://www.dreamworkhq.com/job/b4cab3a7-1f09-42f1-9171-e882ba2fa5af?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "1b7f9ca2-7779-4386-a419-7e4d3824f8f0",
       "title": "Remote Python/Typescript Engineer",
       "company": "Turing",
@@ -6695,19 +6935,19 @@
       "url": "https://www.dreamworkhq.com/job/1b7f9ca2-7779-4386-a419-7e4d3824f8f0?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "b21e7e46-b57f-4744-983c-589e1530fadf",
-      "title": "Full Stack Developer – Java | React | Ruby on Rails",
-      "company": "Network1",
-      "companyDomain": "networkrecruitmentinternational.com",
-      "location": "Centurion, Gauteng, South Africa",
-      "remoteType": "onsite",
-      "salaryMin": 43000,
-      "salaryMax": 50000,
+      "id": "b4cab3a7-1f09-42f1-9171-e882ba2fa5af",
+      "title": "Remote Typescript Engineer",
+      "company": "Turing",
+      "companyDomain": "turing.com",
+      "location": "Toronto, Ontario, Canada",
+      "remoteType": "remote",
+      "salaryMin": 249000,
+      "salaryMax": 292000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T11:21:15.000Z",
-      "firstIndexedAt": "2026-10-20T02:31:11.730Z",
-      "url": "https://www.dreamworkhq.com/job/b21e7e46-b57f-4744-983c-589e1530fadf?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-19T21:17:10.000Z",
+      "firstIndexedAt": "2026-10-20T02:31:12.731Z",
+      "url": "https://www.dreamworkhq.com/job/b4cab3a7-1f09-42f1-9171-e882ba2fa5af?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "084dfe90-9559-4aed-bc41-7c705317858c",
@@ -6765,7 +7005,7 @@
       "salaryMax": 101000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T03:52:11.177Z",
+      "postedAt": "2026-10-20T04:02:25.823Z",
       "firstIndexedAt": "2026-10-19T23:46:49.563Z",
       "url": "https://www.dreamworkhq.com/job/c4f21689-7abe-4b37-b0bd-1ba7563707fc?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -6845,21 +7085,6 @@
       "url": "https://www.dreamworkhq.com/job/ef31c0a0-2211-4525-b412-149ca07705fa?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "bb4531e3-ec6d-457d-805a-bb28f70e1e52",
-      "title": "Middle Full-Stack Developer with AI experience - Node.js, React, AI",
-      "company": "IvorySoft",
-      "companyDomain": "ivorysoft.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-19T23:24:13.118Z",
-      "firstIndexedAt": "2026-10-19T21:34:31.948Z",
-      "url": "https://www.dreamworkhq.com/job/bb4531e3-ec6d-457d-805a-bb28f70e1e52?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "3eebea1f-c9da-4776-88a3-4f6540a08c49",
       "title": "Junior Frontend Software Engineer- Hybrid",
       "company": "Tenet3",
@@ -6920,21 +7145,6 @@
       "url": "https://www.dreamworkhq.com/job/21863885-77e4-492e-a370-1b28201756e2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "7ac6c912-d49c-444c-8dfa-225566dcbc37",
-      "title": "Software Developer . NET & React",
-      "company": "Kingfisher IT",
-      "companyDomain": "kingfisher-it.com",
-      "location": "Antwerp, Belgium",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T07:15:17.987Z",
-      "firstIndexedAt": "2026-10-19T20:15:56.665Z",
-      "url": "https://www.dreamworkhq.com/job/7ac6c912-d49c-444c-8dfa-225566dcbc37?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "c8562967-5abb-4e18-a319-3cbb71b1b1f7",
       "title": ".NET/React AI Software Engineer",
       "company": "Kingfisher IT",
@@ -6950,6 +7160,21 @@
       "url": "https://www.dreamworkhq.com/job/c8562967-5abb-4e18-a319-3cbb71b1b1f7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "7ac6c912-d49c-444c-8dfa-225566dcbc37",
+      "title": "Software Developer . NET & React",
+      "company": "Kingfisher IT",
+      "companyDomain": "kingfisher-it.com",
+      "location": "Antwerp, Belgium",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-19T07:15:17.987Z",
+      "firstIndexedAt": "2026-10-19T20:15:56.665Z",
+      "url": "https://www.dreamworkhq.com/job/7ac6c912-d49c-444c-8dfa-225566dcbc37?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "1aff68af-4e18-477a-bf36-3b19c80c0e5a",
       "title": "Software Engineer II (Full-Stack - Java - React)",
       "company": "Mastercard",
@@ -6960,7 +7185,7 @@
       "salaryMax": 98000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T15:04:27.102Z",
+      "postedAt": "2026-10-19T13:19:51.326Z",
       "firstIndexedAt": "2026-10-19T18:25:51.654Z",
       "url": "https://www.dreamworkhq.com/job/1aff68af-4e18-477a-bf36-3b19c80c0e5a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -7008,21 +7233,6 @@
       "postedAt": "2026-10-19T17:47:35.000Z",
       "firstIndexedAt": "2026-10-19T18:04:05.621Z",
       "url": "https://www.dreamworkhq.com/job/b6d2d7ff-994b-4a5c-8bf8-70f15eb65069?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "1607e617-1ef9-46d5-8555-da3013bf1565",
-      "title": "Full Stack Developer (.Net/React)",
-      "company": "Adentis",
-      "companyDomain": "adentis.pt",
-      "location": "Lisboa",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-19T17:46:05.966Z",
-      "url": "https://www.dreamworkhq.com/job/1607e617-1ef9-46d5-8555-da3013bf1565?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "7b4c9aa3-63b9-49ce-b780-febeddf32bcb",
@@ -7140,7 +7350,7 @@
       "salaryMax": 101000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T16:31:09.417Z",
+      "postedAt": "2026-10-19T16:47:02.059Z",
       "firstIndexedAt": "2026-10-19T11:02:52.231Z",
       "url": "https://www.dreamworkhq.com/job/ea82feba-faf8-4f71-8404-fe9bea0a5436?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -7155,7 +7365,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-19T14:08:01.118Z",
+      "postedAt": "2026-10-19T13:05:02.657Z",
       "firstIndexedAt": "2026-10-19T08:49:55.307Z",
       "url": "https://www.dreamworkhq.com/job/60f5972c-9f4e-4b95-adc3-0aaf4f98c02f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -7185,54 +7395,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T08:22:15.709Z",
+      "postedAt": "2026-10-15T08:50:36.976Z",
       "firstIndexedAt": "2026-10-19T06:50:40.498Z",
       "url": "https://www.dreamworkhq.com/job/96c3a8de-e902-48f2-aad3-c988a7b8493a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "c11f2c3b-51b1-4791-9d35-3d70a37ce497",
-      "title": "Senior Full Stack Java Entwickkler (m/w/d) - React | Java | Kubernetes |",
-      "company": "Noske Office Consulting + Marketing",
-      "companyDomain": "noske-office.de",
-      "location": "Tiefenbronn, Baden-Württemberg, 75233, Germany",
-      "remoteType": "remote",
-      "salaryMin": 51000,
-      "salaryMax": 79000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-18T19:09:29.000Z",
-      "firstIndexedAt": "2026-10-19T02:33:21.991Z",
-      "url": "https://www.dreamworkhq.com/job/c11f2c3b-51b1-4791-9d35-3d70a37ce497?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "0df2d08b-c543-4518-bad3-ce9bd12e6255",
-      "title": "Freelance Back End / Typescript Developer",
-      "company": "Schubergphilis",
-      "companyDomain": "schubergphilis.com",
-      "location": "Rotterdam, South Holland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-18T19:04:08.000Z",
-      "firstIndexedAt": "2026-10-19T02:32:18.693Z",
-      "url": "https://www.dreamworkhq.com/job/0df2d08b-c543-4518-bad3-ce9bd12e6255?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "a74216ca-2ff1-47dc-82a7-050b02842e2a",
-      "title": "UI Engineer – React.js",
-      "company": "Training Basket",
-      "companyDomain": "trainingbasket.com",
-      "location": "Noida, 201309, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-18T18:20:55.000Z",
-      "firstIndexedAt": "2026-10-19T02:31:32.387Z",
-      "url": "https://www.dreamworkhq.com/job/a74216ca-2ff1-47dc-82a7-050b02842e2a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "342e336f-ac9b-431d-a338-f3220eec626e",
@@ -7250,21 +7415,6 @@
       "url": "https://www.dreamworkhq.com/job/342e336f-ac9b-431d-a338-f3220eec626e?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "259f9c8c-cefa-4d44-9d88-1025e7b1433b",
-      "title": "Desarrollador FrontEnd",
-      "company": "IDS Comercial, S.A. de C.V.",
-      "companyDomain": "ids.com.mx",
-      "location": "Ciudad de México DF, Benito Juárez, Mexico",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-18T16:33:01.939Z",
-      "url": "https://www.dreamworkhq.com/job/259f9c8c-cefa-4d44-9d88-1025e7b1433b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "16fe6839-0b99-4507-b826-2ee29bebe090",
       "title": "Desarrollador Frontend - modalidad hibrida",
       "company": "IDS Comercial, S.A. de C.V.",
@@ -7280,19 +7430,19 @@
       "url": "https://www.dreamworkhq.com/job/16fe6839-0b99-4507-b826-2ee29bebe090?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "f0047219-3146-4aba-b311-99f6f11ab7b9",
-      "title": "Desarrollador FrontEnd Web",
+      "id": "259f9c8c-cefa-4d44-9d88-1025e7b1433b",
+      "title": "Desarrollador FrontEnd",
       "company": "IDS Comercial, S.A. de C.V.",
       "companyDomain": "ids.com.mx",
       "location": "Ciudad de México DF, Benito Juárez, Mexico",
-      "remoteType": "remote",
-      "salaryMin": 20000,
-      "salaryMax": 20000,
-      "salaryPeriod": "annual",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-10-16T00:00:00.000Z",
       "firstIndexedAt": "2026-10-18T16:33:01.939Z",
-      "url": "https://www.dreamworkhq.com/job/f0047219-3146-4aba-b311-99f6f11ab7b9?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/259f9c8c-cefa-4d44-9d88-1025e7b1433b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "6e5d1b03-12dd-41f2-a7b8-62818a8a4e26",
@@ -7310,21 +7460,6 @@
       "url": "https://www.dreamworkhq.com/job/6e5d1b03-12dd-41f2-a7b8-62818a8a4e26?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "0717eb8d-6958-4096-bc63-3cc15d974f70",
-      "title": "Desarrollador Cells/Frontend/Remoto - cem/bbva",
-      "company": "Computrabajo México",
-      "companyDomain": "indra.com",
-      "location": "Lima, San Isidro, Peru",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-18T16:32:59.784Z",
-      "url": "https://www.dreamworkhq.com/job/0717eb8d-6958-4096-bc63-3cc15d974f70?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "08e81107-5fd2-41e4-adcb-77605e7baa68",
       "title": "Desarrollador Frontend - Santander",
       "company": "Computrabajo México",
@@ -7338,6 +7473,21 @@
       "postedAt": "2026-10-16T00:00:00.000Z",
       "firstIndexedAt": "2026-10-18T16:32:59.784Z",
       "url": "https://www.dreamworkhq.com/job/08e81107-5fd2-41e4-adcb-77605e7baa68?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "0717eb8d-6958-4096-bc63-3cc15d974f70",
+      "title": "Desarrollador Cells/Frontend/Remoto - cem/bbva",
+      "company": "Computrabajo México",
+      "companyDomain": "indra.com",
+      "location": "Lima, San Isidro, Peru",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-18T16:32:59.784Z",
+      "url": "https://www.dreamworkhq.com/job/0717eb8d-6958-4096-bc63-3cc15d974f70?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "2dd95181-42a5-4467-a8db-e154aa3fa328",
@@ -7400,6 +7550,21 @@
       "url": "https://www.dreamworkhq.com/job/654727ac-d2b4-4a60-9dd3-2119d870eb2b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
+      "id": "8e5c0568-4e14-4b56-9dfd-ea39ae3fd217",
+      "title": "Lider Tecnico de Desarrollo experiencia .NET y React - Bogotá",
+      "company": "FINANZAUTO S.A. BIC",
+      "companyDomain": "finanzauto.com.co",
+      "location": "Bogotá, D.C., Bogotá, D.C., Colombia",
+      "remoteType": "hybrid",
+      "salaryMin": 25000,
+      "salaryMax": 25000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "firstIndexedAt": "2026-10-18T03:48:10.784Z",
+      "url": "https://www.dreamworkhq.com/job/8e5c0568-4e14-4b56-9dfd-ea39ae3fd217?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
       "id": "56cc9ed9-4747-4173-80d0-7c362cf08a7d",
       "title": "Mobile Engineer - React Native (Paris or Remote France)",
       "company": "Alma31",
@@ -7415,8 +7580,8 @@
       "url": "https://www.dreamworkhq.com/job/56cc9ed9-4747-4173-80d0-7c362cf08a7d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "bb68c4f1-7a31-482b-8b43-26e370e63514",
-      "title": "Senior Frontend Software Development Engineer - Mexico",
+      "id": "1005d949-1181-4b26-9bdc-20134d54d1af",
+      "title": "Principal Frontend Software Development Engineer - Mexico",
       "company": "Zillow",
       "companyDomain": "zillow.com",
       "location": "Mexico City",
@@ -7425,9 +7590,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-17T12:17:22.453Z",
+      "postedAt": "2026-10-18T00:31:38.151Z",
       "firstIndexedAt": "2026-10-18T02:50:08.084Z",
-      "url": "https://www.dreamworkhq.com/job/bb68c4f1-7a31-482b-8b43-26e370e63514?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/1005d949-1181-4b26-9bdc-20134d54d1af?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "aa8607a5-0899-4b3e-8b51-bc5304bc28e1",
@@ -7440,13 +7605,13 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-17T12:17:22.350Z",
+      "postedAt": "2026-10-18T00:31:38.342Z",
       "firstIndexedAt": "2026-10-18T02:50:08.084Z",
       "url": "https://www.dreamworkhq.com/job/aa8607a5-0899-4b3e-8b51-bc5304bc28e1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "1005d949-1181-4b26-9bdc-20134d54d1af",
-      "title": "Principal Frontend Software Development Engineer - Mexico",
+      "id": "bb68c4f1-7a31-482b-8b43-26e370e63514",
+      "title": "Senior Frontend Software Development Engineer - Mexico",
       "company": "Zillow",
       "companyDomain": "zillow.com",
       "location": "Mexico City",
@@ -7455,9 +7620,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-17T12:17:22.325Z",
+      "postedAt": "2026-10-18T00:31:38.144Z",
       "firstIndexedAt": "2026-10-18T02:50:08.084Z",
-      "url": "https://www.dreamworkhq.com/job/1005d949-1181-4b26-9bdc-20134d54d1af?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/bb68c4f1-7a31-482b-8b43-26e370e63514?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "0a10e80d-f431-47a7-976b-cce668eefa35",
@@ -7610,19 +7775,19 @@
       "url": "https://www.dreamworkhq.com/job/5208af2e-761e-4fee-8df5-800d07d6c131?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "fc562fa1-9217-42ea-8a5b-56a83d051a65",
-      "title": "Javascript Developer",
+      "id": "69fd2fcf-1ca3-4de7-83dd-50adc5dd8e05",
+      "title": "People Html5 Javascript Developer",
       "company": "EURES Netherlands",
       "companyDomain": null,
       "location": "Noord-Holland, Netherlands",
       "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
+      "salaryMin": 68000,
+      "salaryMax": 68000,
+      "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-17T01:13:15.560Z",
+      "postedAt": "2026-10-17T01:12:39.153Z",
       "firstIndexedAt": "2026-10-17T12:46:44.631Z",
-      "url": "https://www.dreamworkhq.com/job/fc562fa1-9217-42ea-8a5b-56a83d051a65?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/69fd2fcf-1ca3-4de7-83dd-50adc5dd8e05?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "a2ee174d-9aa6-409e-9638-eb48ae7d41a5",
@@ -7640,19 +7805,19 @@
       "url": "https://www.dreamworkhq.com/job/a2ee174d-9aa6-409e-9638-eb48ae7d41a5?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "69fd2fcf-1ca3-4de7-83dd-50adc5dd8e05",
-      "title": "People Html5 Javascript Developer",
+      "id": "fc562fa1-9217-42ea-8a5b-56a83d051a65",
+      "title": "Javascript Developer",
       "company": "EURES Netherlands",
       "companyDomain": null,
       "location": "Noord-Holland, Netherlands",
       "remoteType": null,
-      "salaryMin": 68000,
-      "salaryMax": 68000,
-      "salaryPeriod": "annual",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-17T01:12:39.153Z",
+      "postedAt": "2026-10-17T01:13:15.560Z",
       "firstIndexedAt": "2026-10-17T12:46:44.631Z",
-      "url": "https://www.dreamworkhq.com/job/69fd2fcf-1ca3-4de7-83dd-50adc5dd8e05?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/fc562fa1-9217-42ea-8a5b-56a83d051a65?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "b031ed2e-6119-4de9-a6ee-aa748fd76490",
@@ -7695,7 +7860,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-10-25T01:00:27.081Z",
+      "postedAt": "2024-10-26T01:15:21.637Z",
       "firstIndexedAt": "2026-10-17T10:15:35.230Z",
       "url": "https://www.dreamworkhq.com/job/893caea2-7b17-419f-9630-961ec6bd6267?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -7715,7 +7880,7 @@
       "url": "https://www.dreamworkhq.com/job/bca73221-8183-4e82-bab2-1e16171b4d77?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "3db0262d-3feb-432e-ba38-2b3fb76571da",
+      "id": "710a8cf2-eb02-4ae0-ba50-da8cc1585235",
       "title": "Concept Design - Front End and Rear End ...",
       "company": "BMW TechWorks",
       "companyDomain": "bmwtechworks.in",
@@ -7727,7 +7892,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-10-17T08:46:04.421Z",
-      "url": "https://www.dreamworkhq.com/job/3db0262d-3feb-432e-ba38-2b3fb76571da?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/710a8cf2-eb02-4ae0-ba50-da8cc1585235?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "08c0c8b0-35d4-4e0c-b624-9f3ad1666967",
@@ -7950,7 +8115,7 @@
       "salaryMax": 230000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-17T05:31:29.115Z",
+      "postedAt": "2026-10-17T05:46:04.190Z",
       "firstIndexedAt": "2026-10-16T20:07:58.673Z",
       "url": "https://www.dreamworkhq.com/job/ccfb3343-7ba9-4d18-83cb-99f42264e7bc?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8077,8 +8242,8 @@
     {
       "id": "965157eb-7ab6-4852-92b1-f7a26da970c3",
       "title": "Desarrollador FullStack .NET/Java /React / Exp Banca",
-      "company": "Valtx",
-      "companyDomain": null,
+      "company": "Computrabajo Perú",
+      "companyDomain": "valtx.com",
       "location": "Lima, San Isidro, Peru",
       "remoteType": "hybrid",
       "salaryMin": null,
@@ -8130,7 +8295,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T22:34:44.991Z",
+      "postedAt": "2026-10-16T13:48:41.956Z",
       "firstIndexedAt": "2026-10-16T14:35:26.294Z",
       "url": "https://www.dreamworkhq.com/job/81b4db39-e6e0-4ed7-9b89-4e0e400743b7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8195,21 +8360,6 @@
       "url": "https://www.dreamworkhq.com/job/4711c126-dbe3-45d0-b2d9-f3ab14d9e7ac?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "f7251277-660a-4167-9585-cf67afed402b",
-      "title": "Fullstack Java/React",
-      "company": "Grupo NS",
-      "companyDomain": "grupons.es",
-      "location": "hibrido",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T11:28:45.000Z",
-      "firstIndexedAt": "2026-10-16T12:03:38.478Z",
-      "url": "https://www.dreamworkhq.com/job/f7251277-660a-4167-9585-cf67afed402b?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "e55f787a-32d4-4961-8049-923ad4d013fc",
       "title": "Senior TypeScript Developer_EDC3",
       "company": "Bosch",
@@ -8265,7 +8415,7 @@
       "salaryMax": 51000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T00:00:00.000Z",
+      "postedAt": "2026-10-26T00:00:00.000Z",
       "firstIndexedAt": "2026-10-16T10:47:10.110Z",
       "url": "https://www.dreamworkhq.com/job/ba91b05a-f2ec-4d71-9293-405deaad31e3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8300,21 +8450,6 @@
       "url": "https://www.dreamworkhq.com/job/fd3966c4-cdcb-4ded-a7a1-6fde1ed22534?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "f3437a5a-cf19-490b-a6c7-428a1af796a8",
-      "title": "Senior Frontend Engineer (m/f/x)",
-      "company": "Makersite",
-      "companyDomain": "makersite.com",
-      "location": "Remote job",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T13:40:41.000Z",
-      "firstIndexedAt": "2026-10-16T06:01:06.444Z",
-      "url": "https://www.dreamworkhq.com/job/f3437a5a-cf19-490b-a6c7-428a1af796a8?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "b2a41c11-4072-41ea-9e9b-318e5ef6584e",
       "title": "Senior Full Stack Developer (Python, React.js)",
       "company": "Opendatajobs",
@@ -8345,21 +8480,6 @@
       "url": "https://www.dreamworkhq.com/job/71294eaa-7ad9-4dad-9423-c1c0c1787367?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "fee0e4a1-4d5a-430f-8800-0f32ac154a37",
-      "title": "Software Engineer II, Full Stack (Frontend Focused) (Bangalore, India)",
-      "company": "Aiprise",
-      "companyDomain": "aiprise.com",
-      "location": "Bengaluru",
-      "remoteType": "onsite",
-      "salaryMin": 31000,
-      "salaryMax": 52000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T09:00:55.657Z",
-      "firstIndexedAt": "2026-10-16T04:45:37.930Z",
-      "url": "https://www.dreamworkhq.com/job/fee0e4a1-4d5a-430f-8800-0f32ac154a37?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "ba8654b6-b7f0-4c20-be97-7a614c3e85cb",
       "title": "Software Engineer II, Frontend (Bangalore, India)",
       "company": "Aiprise",
@@ -8373,6 +8493,21 @@
       "postedAt": "2026-10-14T08:51:09.491Z",
       "firstIndexedAt": "2026-10-16T04:45:37.930Z",
       "url": "https://www.dreamworkhq.com/job/ba8654b6-b7f0-4c20-be97-7a614c3e85cb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "fee0e4a1-4d5a-430f-8800-0f32ac154a37",
+      "title": "Software Engineer II, Full Stack (Frontend Focused) (Bangalore, India)",
+      "company": "Aiprise",
+      "companyDomain": "aiprise.com",
+      "location": "Bengaluru",
+      "remoteType": "onsite",
+      "salaryMin": 31000,
+      "salaryMax": 52000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-14T09:00:55.657Z",
+      "firstIndexedAt": "2026-10-16T04:45:37.930Z",
+      "url": "https://www.dreamworkhq.com/job/fee0e4a1-4d5a-430f-8800-0f32ac154a37?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "c70cd013-0edb-4403-8579-3bc92e0cf2b9",
@@ -8435,34 +8570,19 @@
       "url": "https://www.dreamworkhq.com/job/1dd79549-1dfe-408e-9a48-24775ffff75f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "c6012d39-3034-4321-be3d-a6d3f0c2e754",
-      "title": "Senior Frontend Engineer - Media Production - Mexico",
+      "id": "086aaee4-4bc4-4eda-8339-b4c415f7ec79",
+      "title": "Senior Frontend Engineer - Media Production",
       "company": "Truelogic",
       "companyDomain": "truelogic.io",
-      "location": "Mexico City",
+      "location": "LatAm",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T00:51:31.481Z",
+      "postedAt": "2026-10-16T00:51:28.849Z",
       "firstIndexedAt": "2026-10-16T02:45:38.968Z",
-      "url": "https://www.dreamworkhq.com/job/c6012d39-3034-4321-be3d-a6d3f0c2e754?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "21c34b40-295b-4c3d-b486-1e554a419c1f",
-      "title": "Senior Frontend Engineer - Media Production - Brazil",
-      "company": "Truelogic",
-      "companyDomain": "truelogic.io",
-      "location": "Brazil",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T00:52:11.667Z",
-      "firstIndexedAt": "2026-10-16T02:45:38.968Z",
-      "url": "https://www.dreamworkhq.com/job/21c34b40-295b-4c3d-b486-1e554a419c1f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/086aaee4-4bc4-4eda-8339-b4c415f7ec79?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "3199697f-86e9-4249-9652-bb65d1f81996",
@@ -8495,23 +8615,23 @@
       "url": "https://www.dreamworkhq.com/job/a8986aba-f4b3-4120-b27b-1bf7f02cdddd?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "086aaee4-4bc4-4eda-8339-b4c415f7ec79",
-      "title": "Senior Frontend Engineer - Media Production",
+      "id": "21c34b40-295b-4c3d-b486-1e554a419c1f",
+      "title": "Senior Frontend Engineer - Media Production - Brazil",
       "company": "Truelogic",
       "companyDomain": "truelogic.io",
-      "location": "LatAm",
+      "location": "Brazil",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T00:51:28.849Z",
+      "postedAt": "2026-10-16T00:52:11.667Z",
       "firstIndexedAt": "2026-10-16T02:45:38.968Z",
-      "url": "https://www.dreamworkhq.com/job/086aaee4-4bc4-4eda-8339-b4c415f7ec79?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/21c34b40-295b-4c3d-b486-1e554a419c1f?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "9d9e11bc-3194-47c9-87be-f808bb2033bb",
-      "title": "Senior Creative Front-End Engineer – Digital Agency | Mexico",
+      "id": "c6012d39-3034-4321-be3d-a6d3f0c2e754",
+      "title": "Senior Frontend Engineer - Media Production - Mexico",
       "company": "Truelogic",
       "companyDomain": "truelogic.io",
       "location": "Mexico City",
@@ -8520,9 +8640,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T10:59:51.569Z",
-      "firstIndexedAt": "2026-10-16T02:45:34.587Z",
-      "url": "https://www.dreamworkhq.com/job/9d9e11bc-3194-47c9-87be-f808bb2033bb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "postedAt": "2026-10-16T00:51:31.481Z",
+      "firstIndexedAt": "2026-10-16T02:45:38.968Z",
+      "url": "https://www.dreamworkhq.com/job/c6012d39-3034-4321-be3d-a6d3f0c2e754?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "b653f95f-49f5-432e-b283-36a9a0fed9c5",
@@ -8540,21 +8660,6 @@
       "url": "https://www.dreamworkhq.com/job/b653f95f-49f5-432e-b283-36a9a0fed9c5?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "88a8cee9-563c-4943-bbd7-e969ad639709",
-      "title": "Senior Creative Front-End Engineer – Digital Agency | Brazil",
-      "company": "Truelogic",
-      "companyDomain": "truelogic.io",
-      "location": "São Paulo",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T11:00:29.001Z",
-      "firstIndexedAt": "2026-10-16T02:45:34.587Z",
-      "url": "https://www.dreamworkhq.com/job/88a8cee9-563c-4943-bbd7-e969ad639709?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
       "id": "2601c917-6383-4ea7-9ad7-7f362cafdd1a",
       "title": "Senior Creative Front-End Engineer – Digital Agency | Colombia",
       "company": "Truelogic",
@@ -8568,6 +8673,36 @@
       "postedAt": "2026-10-15T10:59:27.039Z",
       "firstIndexedAt": "2026-10-16T02:45:34.587Z",
       "url": "https://www.dreamworkhq.com/job/2601c917-6383-4ea7-9ad7-7f362cafdd1a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "9d9e11bc-3194-47c9-87be-f808bb2033bb",
+      "title": "Senior Creative Front-End Engineer – Digital Agency | Mexico",
+      "company": "Truelogic",
+      "companyDomain": "truelogic.io",
+      "location": "Mexico City",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-15T10:59:51.569Z",
+      "firstIndexedAt": "2026-10-16T02:45:34.587Z",
+      "url": "https://www.dreamworkhq.com/job/9d9e11bc-3194-47c9-87be-f808bb2033bb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+    },
+    {
+      "id": "88a8cee9-563c-4943-bbd7-e969ad639709",
+      "title": "Senior Creative Front-End Engineer – Digital Agency | Brazil",
+      "company": "Truelogic",
+      "companyDomain": "truelogic.io",
+      "location": "São Paulo",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-15T11:00:29.001Z",
+      "firstIndexedAt": "2026-10-16T02:45:34.587Z",
+      "url": "https://www.dreamworkhq.com/job/88a8cee9-563c-4943-bbd7-e969ad639709?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "cc573454-e6a6-49e7-86dc-62f9f9851420",
@@ -8700,7 +8835,7 @@
       "salaryMax": 157450,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T08:18:10.899Z",
+      "postedAt": "2026-10-15T10:21:31.953Z",
       "firstIndexedAt": "2026-10-15T21:15:42.781Z",
       "url": "https://www.dreamworkhq.com/job/56516e49-bca1-4907-902e-7630a48d2ec3?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8745,7 +8880,7 @@
       "salaryMax": 148000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T16:03:58.013Z",
+      "postedAt": "2026-10-15T16:19:55.785Z",
       "firstIndexedAt": "2026-10-15T20:26:16.996Z",
       "url": "https://www.dreamworkhq.com/job/413f4f6c-e691-4250-bf98-ef5d94e963c4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8760,39 +8895,9 @@
       "salaryMax": 155700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T16:02:50.012Z",
+      "postedAt": "2026-10-15T16:16:17.950Z",
       "firstIndexedAt": "2026-10-15T20:10:00.187Z",
       "url": "https://www.dreamworkhq.com/job/40b6f997-81d2-4363-b7e2-425f33c3b70d?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "bf2fe240-b539-46b0-8316-83e63745b7d6",
-      "title": "Frontend Architect",
-      "company": "Tripactions",
-      "companyDomain": "navan.com",
-      "location": "New York, NY",
-      "remoteType": null,
-      "salaryMin": 129600,
-      "salaryMax": 288000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-10-14T13:39:06.000Z",
-      "firstIndexedAt": "2026-10-15T19:46:10.438Z",
-      "url": "https://www.dreamworkhq.com/job/bf2fe240-b539-46b0-8316-83e63745b7d6?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "bc8275de-2c62-4c23-ad3e-fff05bad51a7",
-      "title": "Frontend Architect",
-      "company": "Tripactions",
-      "companyDomain": "navan.com",
-      "location": "Palo Alto, CA or San Francisco, CA",
-      "remoteType": "onsite",
-      "salaryMin": 129600,
-      "salaryMax": 288000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T13:39:04.000Z",
-      "firstIndexedAt": "2026-10-15T19:46:10.438Z",
-      "url": "https://www.dreamworkhq.com/job/bc8275de-2c62-4c23-ad3e-fff05bad51a7?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "b1e930f1-dc7b-43b0-92a3-e7659eeaaadb",
@@ -8810,19 +8915,19 @@
       "url": "https://www.dreamworkhq.com/job/b1e930f1-dc7b-43b0-92a3-e7659eeaaadb?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
-      "id": "c9802619-f3f2-4cc1-b62e-3be1ab7990d1",
+      "id": "f50a15ac-a679-4104-856f-ecdeb421e38a",
       "title": "Senior Software Engineer — .NET & React",
       "company": "Northerntrust",
       "companyDomain": "northerntrust.com",
       "location": "Chicago, IL",
-      "remoteType": "hybrid",
+      "remoteType": null,
       "salaryMin": 114500,
       "salaryMax": 194700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T14:33:10.539Z",
+      "postedAt": "2026-10-15T14:33:10.537Z",
       "firstIndexedAt": "2026-10-15T17:29:42.740Z",
-      "url": "https://www.dreamworkhq.com/job/c9802619-f3f2-4cc1-b62e-3be1ab7990d1?utm_source=github&utm_campaign=gh-frontend-react-jobs"
+      "url": "https://www.dreamworkhq.com/job/f50a15ac-a679-4104-856f-ecdeb421e38a?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
     {
       "id": "2c8cc64e-09fb-4558-96a5-06ed99aeb23f",
@@ -8850,7 +8955,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T17:46:10.134Z",
+      "postedAt": "2026-10-20T18:00:33.108Z",
       "firstIndexedAt": "2026-10-15T15:15:51.234Z",
       "url": "https://www.dreamworkhq.com/job/4a436bc7-a508-497b-9018-3dae0b764eb4?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     },
@@ -8898,111 +9003,6 @@
       "postedAt": "2026-10-15T16:46:04.696Z",
       "firstIndexedAt": "2026-10-15T14:05:05.947Z",
       "url": "https://www.dreamworkhq.com/job/c650544c-96c4-4b3c-9efb-5740f0362740?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "97644c61-58f3-48d0-827e-1e591fde300c",
-      "title": "Frontend Desktop Engineer",
-      "company": "Tether",
-      "companyDomain": "tether.to",
-      "location": "Remote job",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T13:11:27.000Z",
-      "firstIndexedAt": "2026-10-15T13:00:36.832Z",
-      "url": "https://www.dreamworkhq.com/job/97644c61-58f3-48d0-827e-1e591fde300c?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "575005e9-7011-49c3-98e9-9af608ee52ec",
-      "title": "Mobile Engineer - React Native (100% Remote)",
-      "company": "Tether",
-      "companyDomain": "tether.to",
-      "location": "Remote job",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T19:10:47.000Z",
-      "firstIndexedAt": "2026-10-15T13:00:30.289Z",
-      "url": "https://www.dreamworkhq.com/job/575005e9-7011-49c3-98e9-9af608ee52ec?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "b300393e-5309-4364-9acd-3deb72e5f9b9",
-      "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
-      "company": "Tether",
-      "companyDomain": "tether.to",
-      "location": "Remote job",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T13:59:25.000Z",
-      "firstIndexedAt": "2026-10-15T13:00:30.289Z",
-      "url": "https://www.dreamworkhq.com/job/b300393e-5309-4364-9acd-3deb72e5f9b9?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "005a097b-9648-443c-a27b-fd5493880e96",
-      "title": "React Developer (Dublin)",
-      "company": "DataArt",
-      "companyDomain": "dataart.com",
-      "location": "IRL",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-08T13:43:12.300Z",
-      "firstIndexedAt": "2026-10-15T12:50:42.787Z",
-      "url": "https://www.dreamworkhq.com/job/005a097b-9648-443c-a27b-fd5493880e96?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "ac93686c-5150-44ab-9953-3b9694e23461",
-      "title": "Strong Junior/Middle Full-Stack Engineer (React and .NET)",
-      "company": "Blackthorn Vision",
-      "companyDomain": "blackthorn.vision",
-      "location": "Lviv, Ukraine",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T09:56:04.306Z",
-      "firstIndexedAt": "2026-10-15T12:50:05.588Z",
-      "url": "https://www.dreamworkhq.com/job/ac93686c-5150-44ab-9953-3b9694e23461?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "fd246fe1-1a38-4f24-80bb-21596b968fd2",
-      "title": "Full Stack Growth Engineer (Next, React, Node)",
-      "company": "Kozak Agency",
-      "companyDomain": "kozak.agency",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-10-15T12:42:04.471Z",
-      "firstIndexedAt": "2026-10-15T12:49:54.153Z",
-      "url": "https://www.dreamworkhq.com/job/fd246fe1-1a38-4f24-80bb-21596b968fd2?utm_source=github&utm_campaign=gh-frontend-react-jobs"
-    },
-    {
-      "id": "2d6e096c-eff9-43b6-b219-973896efa217",
-      "title": "React Developer (trainee, junior, strong junior)",
-      "company": "Logic Craft",
-      "companyDomain": null,
-      "location": "Lviv, Ukraine",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T12:31:15.651Z",
-      "firstIndexedAt": "2026-10-15T12:49:54.153Z",
-      "url": "https://www.dreamworkhq.com/job/2d6e096c-eff9-43b6-b219-973896efa217?utm_source=github&utm_campaign=gh-frontend-react-jobs"
     }
   ]
 }
